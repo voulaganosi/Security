@@ -1,0 +1,55 @@
+# Brute-force cracking with static characters  (SAMPLE PROFILE)
+
+# Empty lines and lines beginning with a "#" are ignored.
+# SPACES are NOT stripped: if you accidently put a space at the end of the
+# password, it will be used as a valid character.
+
+# Password definition: use "?" in place of "don't know" chars.
+# Up to 16.  Well.. you can use more than 16 "?", but up to 16 may be really
+# variable (I mean with a charset of more than 1 character).
+
+PASSWORD=pas?w??d
+
+####################
+# If no variables "?" are used, FZC will try to find the password assuming
+# that it is close enough (ie: with typing errors) to the one you defined.
+# It searches for a maximum of 3 simultaneous errors: 1 missing char, 1
+# added or changed char and a permutation of up to 4 (consecutive) chars.
+# Example: PASSWORD=following  can find  oflowung
+#                   ^^^^^^^^^            ^^^^^^^^
+#                      ^^                   ^^
+#  that's what you tried to write  ...  and THAT's what you wrote!
+# The "PASSWORD=following" (or any other of length 9) example takes 4m 46s
+# on a 486DLC/40. On the same PC, length 10 is completed in 7m 15s and
+# length 12 in 14m 31s.
+# The minimum allowed password length for this method is 4 characters, and
+# FZC will ***NOT*** find shorter ones (ie: if you define PASSWORD=worm and
+# the real one is "wrm", it won't be found).
+# If you know the password is 4 or less chars, use brute-force instead.
+# Note: sometimes the same password is reported more than one time.
+# Suspend/resume and view the current try are **NOT** implemented... the PC
+# will be inaccessable until the operation is completed.
+####################
+
+# Unknown chars definition: use one "?=xx..." for each "?" in PASSWORD,
+# where xx... is composed by:
+#         a     = all lowercase   (a..z)
+#         A     = all uppercase   (A..Z)
+#         1     = numbers         (0..9)
+#         !     = symbols         ( !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~)
+#         #     = all the 251 possible chars (use alone or with @)
+#         %     = the " (double quote) character
+#         "abc" = the letters "a", "b" and "c"
+#         @     = empty char (ie: ab?de with ?="c"@ matches abcde and abde)
+#                 @ alone is not legal (ie: ?=@ will give an error)
+#
+#   Example:  ?=a"PWX "%1
+#   instructs FZC to use  lowercase+P+W+X+space+"+numbers  as the first "?"
+#
+# If a char of the password that you know is a REAL "?", you must set is as
+# unknown and then define it as ?="?"
+
+?=a"PWX "%1
+?="oO0"
+?="rR"!
+

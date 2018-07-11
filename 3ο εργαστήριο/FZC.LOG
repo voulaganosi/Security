@@ -1,0 +1,29 @@
+FZC 1.05c session begins at Monday Mar 7 2016  10:00:33a
+
+ZIPfile name  : tocrack.zip (using 1 encrypted files)
+Attack method : brute-force
+Passwd length : 4
+Character set : lowercase + uppercase
+False passwds : 1 false password / 1.1e+12 tries
+
+Password not found  (elapsed time = 13s)
+-------------------------------------------------------------------------------
+FZC 1.05c session begins at Monday Mar 7 2016  10:02:28a
+
+ZIPfile name  : tocrack.zip (using 1 encrypted files)
+Attack method : wordlist-based  (w1 = fast)
+Wordlist name : wordlist
+False passwds : 1 false password / 1.1e+12 tries
+
+iNSeCuRe    {694E536543755265}
+-------------------------------------------------------------------------------
+FZC 1.05c session begins at Monday Mar 7 2016  10:03:13a
+
+ZIPfile name  : tocrack.zip (using 1 encrypted files)
+Attack method : brute-force
+Passwd length : 8
+Character set : lowercase + uppercase
+False passwds : 1 false password / 1.1e+12 tries
+
+Password not found  (elapsed time = 02m 30s  (suspended))
+-------------------------------------------------------------------------------

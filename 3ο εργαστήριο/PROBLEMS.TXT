@@ -1,0 +1,2 @@
+- The AutoSave feature does not always work under Windows
+

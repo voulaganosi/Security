@@ -1,0 +1,39 @@
+# FZC 1.05c sample wordlist
+#
+# Lines beginning with a "#" are ignored and can be used to store
+# wordlist information, comments, etc.
+#
+# You can get some very good wordlists from:
+#       ftp://ftp.cdrom.com/pub/security/coast/dict/wordlists
+#       ftp://ftp.cdrom.com/pub/security/coast/dict/dictionaries
+#       ftp://ftp.ox.ac.uk/pub/wordlists
+#
+# Many wordlists are compressed (.Z or .gz).  To uncompress them try:
+#       ftp://ftp.cdrom.com/pub/simtelnet/msdos/compress/gzip124.zip
+#       ftp://ftp.cdrom.com/pub/simtelnet/msdos/arcers/tar320g.zip
+#
+# Finally, to sort/merge wordlists get:
+#       ftp://ftp.fc.net/pub/phrack/underground/misc/jack14.zip
+#
+# Note1: FZC will use only the first 32 characters of the words.
+#
+# Note2: The EOL can be either LF (*ix) or CR/LF (DOS).
+#        A [CR/]LF in the last line is optional.
+#        The EOF is 0x1A (26 dec = ^Z) and is optional.
+
+BiCapitalization
+bletch
+claudia
+daemon
+disk
+emoticon
+FidoNet
+fine
+foobar
+InterNet
+macintrash
+no
+reversed
+yes
+zen
+

@@ -1,0 +1,2942 @@
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 6 password hashes with 6 different salts
+0:00:00:00 Remaining 6 password hashes with 6 different salts
+0:00:00:00 - Hash type: Traditional DES (lengths up to 8, longer passwords split)
+0:00:00:00 - Algorithm: 24/32 4K
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+0:00:00:00 Proceeding with "single crack" mode
+0:00:00:00 - 956 preprocessed word mangling rules
+0:00:00:00 - Allocated 6 buffers of 64 candidate passwords each
+0:00:00:00 - Rule #1: ':' accepted as ''
+0:00:00:00 - Rule #2: '-s x**' rejected
+0:00:00:00 - Rule #3: '-c (?acQ' accepted as '(?acQ'
+0:00:00:00 - Rule #4: '-c lQ' accepted as 'lQ'
+0:00:00:00 - Rule #5: '-s-c x**MlQ' rejected
+0:00:00:00 - Rule #6: '>6'6' accepted
+0:00:00:00 - Rule #7: '>7l'7' accepted
+0:00:00:00 - Rule #8: '>6/?ul'6' accepted
+0:00:00:00 - Rule #9: '>5'5' accepted
+0:00:00:00 - Rule #10: '<*d' accepted
+0:00:00:00 - Rule #11: 'rc' accepted
+0:00:00:00 - Rule #12: '<*dMcQ' accepted
+0:00:00:00 - Rule #13: '>5/?ul'5' accepted
+0:00:00:00 - Rule #14: 'uQ' accepted
+0:00:00:00 - Rule #15: 'r(?al' accepted
+0:00:00:00 - Rule #16: '<*!?Alp' accepted
+0:00:00:00 - Rule #17: '<*!?Acp' accepted
+0:00:00:00 - Rule #18: '<*cQd' accepted
+0:00:00:00 - Rule #19: '>7/?u'7' accepted
+0:00:00:00 - Rule #20: '>4l'4' accepted
+0:00:00:00 - Rule #21: '<+(?lcr' accepted
+0:00:00:00 - Rule #22: '<+r(?lcr' accepted
+0:00:00:00 - Rule #23: '>3'3' accepted
+0:00:00:00 - Rule #24: '>4/?u'4' accepted
+0:00:00:00 - Rule #25: '>3/?ul'3' accepted
+0:00:00:00 - Rule #26: 'uQr' accepted
+0:00:00:00 - Rule #27: '<*lQf' accepted
+0:00:00:00 - Rule #28: '>2x12' accepted
+0:00:00:00 - Rule #29: '>3x13' accepted
+0:00:00:00 - Rule #30: '>4x14' accepted
+0:00:00:00 - Rule #31: '>5x15' accepted
+0:00:00:00 - Rule #32: '>6x16' accepted
+0:00:00:00 - Rule #33: '>7x17' accepted
+0:00:00:00 - Rule #34: '>8x18' accepted
+0:00:00:00 - Rule #35: '>3x22' accepted
+0:00:00:00 - Rule #36: '>4x23' accepted
+0:00:00:00 - Rule #37: '>5x24' accepted
+0:00:00:00 - Rule #38: '>6x25' accepted
+0:00:00:00 - Rule #39: '>7x26' accepted
+0:00:00:00 - Rule #40: '>8x27' accepted
+0:00:00:00 - Rule #41: '>9x28' accepted
+0:00:00:00 - Rule #42: '>4x32' accepted
+0:00:00:00 - Rule #43: '>5x33' accepted
+0:00:00:00 - Rule #44: '>6x34' accepted
+0:00:00:00 - Rule #45: '>7x35' accepted
+0:00:00:00 - Rule #46: '>8x36' accepted
+0:00:00:00 - Rule #47: '>9x37' accepted
+0:00:00:00 - Rule #48: '>2/?ulx12' accepted
+0:00:00:00 - Rule #49: '>3/?ulx13' accepted
+0:00:00:00 - Rule #50: '>4/?ulx14' accepted
+0:00:00:00 - Rule #51: '>5/?ulx15' accepted
+0:00:00:00 - Rule #52: '>6/?ulx16' accepted
+0:00:00:00 - Rule #53: '>7/?ulx17' accepted
+0:00:00:00 - Rule #54: '>8/?ulx18' accepted
+0:00:00:00 - Rule #55: '>3/?ulx22' accepted
+0:00:00:00 - Rule #56: '>4/?ulx23' accepted
+0:00:00:00 - Rule #57: '>5/?ulx24' accepted
+0:00:00:00 - Rule #58: '>6/?ulx25' accepted
+0:00:00:00 - Rule #59: '>7/?ulx26' accepted
+0:00:00:00 - Rule #60: '>8/?ulx27' accepted
+0:00:00:00 - Rule #61: '>9/?ulx28' accepted
+0:00:00:00 - Rule #62: '>4/?ulx32' accepted
+0:00:00:00 - Rule #63: '>5/?ulx33' accepted
+0:00:00:00 - Rule #64: '>6/?ulx34' accepted
+0:00:00:00 - Rule #65: '>7/?ulx35' accepted
+0:00:00:00 - Rule #66: '>8/?ulx36' accepted
+0:00:00:00 - Rule #67: '>9/?ulx37' accepted
+0:00:00:00 - Rule #68: '<*l$1' accepted
+0:00:00:00 - Rule #69: '<*l$2' accepted
+0:00:00:00 - Rule #70: '<*l$3' accepted
+0:00:00:00 + Cracked root
+0:00:00:00 - Rule #71: '<*l$4' accepted
+0:00:00:00 + Cracked test1
+0:00:00:00 - Rule #72: '<*l$5' accepted
+0:00:00:00 - Oldest still in use is now rule #71
+0:00:00:00 - Rule #73: '<*l$6' accepted
+0:00:00:00 - Rule #74: '<*l$7' accepted
+0:00:00:00 - Rule #75: '<*l$8' accepted
+0:00:00:00 - Rule #76: '<*l$9' accepted
+0:00:00:00 - Rule #77: '<*l$!' accepted
+0:00:00:00 - Rule #78: '<*l$0' accepted
+0:00:00:00 - Rule #79: '<*l$a' accepted
+0:00:00:00 - Rule #80: '<*l$b' accepted
+0:00:00:00 - Rule #81: '<*l$c' accepted
+0:00:00:00 - Rule #82: '<*l$d' accepted
+0:00:00:00 - Rule #83: '<*l$e' accepted
+0:00:00:00 - Rule #84: '<*l$f' accepted
+0:00:00:00 - Rule #85: '<*l$g' accepted
+0:00:00:00 - Rule #86: '<*l$h' accepted
+0:00:00:00 - Rule #87: '<*l$i' accepted
+0:00:00:00 - Rule #88: '<*l$j' accepted
+0:00:00:00 - Rule #89: '<*l$k' accepted
+0:00:00:00 - Rule #90: '<*l$l' accepted
+0:00:00:00 - Rule #91: '<*l$m' accepted
+0:00:00:00 - Rule #92: '<*l$n' accepted
+0:00:00:00 - Rule #93: '<*l$o' accepted
+0:00:00:00 - Oldest still in use is now rule #92
+0:00:00:00 - Rule #94: '<*l$p' accepted
+0:00:00:00 - Rule #95: '<*l$q' accepted
+0:00:00:00 - Rule #96: '<*l$r' accepted
+0:00:00:00 - Rule #97: '<*l$s' accepted
+0:00:00:00 - Rule #98: '<*l$t' accepted
+0:00:00:00 - Rule #99: '<*l$u' accepted
+0:00:00:00 - Rule #100: '<*l$v' accepted
+0:00:00:00 - Rule #101: '<*l$w' accepted
+0:00:00:00 - Rule #102: '<*l$x' accepted
+0:00:00:00 - Rule #103: '<*l$y' accepted
+0:00:00:00 - Rule #104: '<*l$z' accepted
+0:00:00:00 - Rule #105: '<*l$"' accepted
+0:00:00:00 - Rule #106: '<*l$#' accepted
+0:00:00:00 - Rule #107: '<*l$$' accepted
+0:00:00:00 - Rule #108: '<*l$%' accepted
+0:00:00:00 - Rule #109: '<*l$&' accepted
+0:00:00:00 - Rule #110: '<*l$'' accepted
+0:00:00:00 - Rule #111: '<*l$(' accepted
+0:00:00:00 - Rule #112: '<*l$)' accepted
+0:00:00:00 - Rule #113: '<*l$*' accepted
+0:00:00:00 - Rule #114: '<*l$+' accepted
+0:00:00:00 - Oldest still in use is now rule #113
+0:00:00:00 - Rule #115: '<*l$,' accepted
+0:00:00:00 - Rule #116: '<*l$-' accepted
+0:00:00:00 - Rule #117: '<*l$.' accepted
+0:00:00:00 - Rule #118: '<*l$/' accepted
+0:00:00:00 - Rule #119: '<*l$:' accepted
+0:00:00:00 - Rule #120: '<*l$;' accepted
+0:00:00:00 - Rule #121: '<*l$<' accepted
+0:00:00:00 - Rule #122: '<*l$=' accepted
+0:00:00:00 - Rule #123: '<*l$>' accepted
+0:00:00:00 - Rule #124: '<*l$?' accepted
+0:00:00:00 - Rule #125: '<*l$@' accepted
+0:00:00:00 - Rule #126: '<*l$[' accepted
+0:00:00:00 - Rule #127: '<*l$\' accepted
+0:00:00:00 - Rule #128: '<*l$]' accepted
+0:00:00:00 - Rule #129: '<*l$^' accepted
+0:00:00:00 - Rule #130: '<*l$_' accepted
+0:00:00:00 - Rule #131: '<*l$`' accepted
+0:00:00:00 - Rule #132: '<*l${' accepted
+0:00:00:00 - Rule #133: '<*l$|' accepted
+0:00:00:00 - Rule #134: '<*l$}' accepted
+0:00:00:00 - Rule #135: '<*l$~' accepted
+0:00:00:00 - Rule #136: '<*(?ac$1' accepted
+0:00:00:00 - Oldest still in use is now rule #135
+0:00:00:00 - Rule #137: '<*(?ac$2' accepted
+0:00:00:00 - Rule #138: '<*(?ac$3' accepted
+0:00:00:00 - Rule #139: '<*(?ac$4' accepted
+0:00:00:00 - Rule #140: '<*(?ac$5' accepted
+0:00:00:00 - Rule #141: '<*(?ac$6' accepted
+0:00:00:00 - Rule #142: '<*(?ac$7' accepted
+0:00:00:00 - Rule #143: '<*(?ac$8' accepted
+0:00:00:00 - Rule #144: '<*(?ac$9' accepted
+0:00:00:00 - Rule #145: '<*(?ac$!' accepted
+0:00:00:00 - Rule #146: '<*(?ac$0' accepted
+0:00:00:00 - Rule #147: '<*(?ac$a' accepted
+0:00:00:00 - Rule #148: '<*(?ac$b' accepted
+0:00:00:00 - Rule #149: '<*(?ac$c' accepted
+0:00:00:00 - Rule #150: '<*(?ac$d' accepted
+0:00:00:00 - Rule #151: '<*(?ac$e' accepted
+0:00:00:00 - Rule #152: '<*(?ac$f' accepted
+0:00:00:00 - Rule #153: '<*(?ac$g' accepted
+0:00:00:00 - Rule #154: '<*(?ac$h' accepted
+0:00:00:00 - Rule #155: '<*(?ac$i' accepted
+0:00:00:00 - Rule #156: '<*(?ac$j' accepted
+0:00:00:00 - Rule #157: '<*(?ac$k' accepted
+0:00:00:00 - Rule #158: '<*(?ac$l' accepted
+0:00:00:00 - Rule #159: '<*(?ac$m' accepted
+0:00:00:00 - Rule #160: '<*(?ac$n' accepted
+0:00:00:00 - Rule #161: '<*(?ac$o' accepted
+0:00:00:00 - Rule #162: '<*(?ac$p' accepted
+0:00:00:00 - Rule #163: '<*(?ac$q' accepted
+0:00:00:00 - Rule #164: '<*(?ac$r' accepted
+0:00:00:00 - Rule #165: '<*(?ac$s' accepted
+0:00:00:00 - Rule #166: '<*(?ac$t' accepted
+0:00:00:00 - Rule #167: '<*(?ac$u' accepted
+0:00:00:00 - Oldest still in use is now rule #166
+0:00:00:00 - Rule #168: '<*(?ac$v' accepted
+0:00:00:00 - Rule #169: '<*(?ac$w' accepted
+0:00:00:00 - Rule #170: '<*(?ac$x' accepted
+0:00:00:00 - Rule #171: '<*(?ac$y' accepted
+0:00:00:00 - Rule #172: '<*(?ac$z' accepted
+0:00:00:00 - Rule #173: '<*(?ac$"' accepted
+0:00:00:00 - Rule #174: '<*(?ac$#' accepted
+0:00:00:00 - Rule #175: '<*(?ac$$' accepted
+0:00:00:00 - Rule #176: '<*(?ac$%' accepted
+0:00:00:00 - Rule #177: '<*(?ac$&' accepted
+0:00:00:00 - Rule #178: '<*(?ac$'' accepted
+0:00:00:00 - Rule #179: '<*(?ac$(' accepted
+0:00:00:00 - Rule #180: '<*(?ac$)' accepted
+0:00:00:00 - Rule #181: '<*(?ac$*' accepted
+0:00:00:00 - Rule #182: '<*(?ac$+' accepted
+0:00:00:00 - Rule #183: '<*(?ac$,' accepted
+0:00:00:00 - Rule #184: '<*(?ac$-' accepted
+0:00:00:00 - Rule #185: '<*(?ac$.' accepted
+0:00:00:00 - Rule #186: '<*(?ac$/' accepted
+0:00:00:00 - Rule #187: '<*(?ac$:' accepted
+0:00:00:00 - Rule #188: '<*(?ac$;' accepted
+0:00:00:00 - Rule #189: '<*(?ac$<' accepted
+0:00:00:00 - Rule #190: '<*(?ac$=' accepted
+0:00:00:00 - Rule #191: '<*(?ac$>' accepted
+0:00:00:00 - Rule #192: '<*(?ac$?' accepted
+0:00:00:00 - Rule #193: '<*(?ac$@' accepted
+0:00:00:00 - Rule #194: '<*(?ac$[' accepted
+0:00:00:00 - Rule #195: '<*(?ac$\' accepted
+0:00:00:00 - Rule #196: '<*(?ac$]' accepted
+0:00:00:00 - Rule #197: '<*(?ac$^' accepted
+0:00:00:00 - Rule #198: '<*(?ac$_' accepted
+0:00:00:00 - Rule #199: '<*(?ac$`' accepted
+0:00:00:00 - Oldest still in use is now rule #198
+0:00:00:00 - Rule #200: '<*(?ac${' accepted
+0:00:00:00 - Rule #201: '<*(?ac$|' accepted
+0:00:00:00 - Rule #202: '<*(?ac$}' accepted
+0:00:00:00 - Rule #203: '<*(?ac$~' accepted
+0:00:00:00 - Rule #204: '<*lr$1' accepted
+0:00:00:00 - Rule #205: '<*lr$2' accepted
+0:00:00:00 - Rule #206: '<*lr$3' accepted
+0:00:00:00 - Rule #207: '<*lr$4' accepted
+0:00:00:00 - Rule #208: '<*lr$5' accepted
+0:00:00:00 - Rule #209: '<*lr$6' accepted
+0:00:00:00 - Rule #210: '<*lr$7' accepted
+0:00:00:00 - Rule #211: '<*lr$8' accepted
+0:00:00:00 - Rule #212: '<*lr$9' accepted
+0:00:00:00 - Rule #213: '<*lr$!' accepted
+0:00:00:00 - Rule #214: '<*/?au$1' accepted
+0:00:00:00 - Rule #215: '<*/?au$2' accepted
+0:00:00:00 - Rule #216: '<*/?au$3' accepted
+0:00:00:00 - Rule #217: '<*/?au$4' accepted
+0:00:00:00 - Rule #218: '<*/?au$5' accepted
+0:00:00:00 - Rule #219: '<*/?au$6' accepted
+0:00:00:00 - Rule #220: '<*/?au$7' accepted
+0:00:00:00 - Rule #221: '<*/?au$8' accepted
+0:00:00:00 - Rule #222: '<*/?au$9' accepted
+0:00:00:00 - Rule #223: '<*/?au$!' accepted
+0:00:00:00 - Rule #224: '<-l$!$!' accepted
+0:00:00:00 - Rule #225: '<-(?ac$!$!' accepted
+0:00:00:00 - Rule #226: 'l$!<-$!$!' accepted
+0:00:00:00 - Oldest still in use is now rule #225
+0:00:00:00 - Rule #227: '(?ac$!<-$!$!' accepted
+0:00:00:00 - Rule #228: '/?v@?v>2l' accepted
+0:00:00:00 - Rule #229: '/?v@?v>2(?ac' accepted
+0:00:00:00 - Rule #230: '/?v@?v>2<*d' accepted
+0:00:00:00 - Rule #231: '<*lP' accepted
+0:00:00:00 - Rule #232: '<*lI' accepted
+0:00:00:00 - Rule #233: '<*lP(?ac' accepted
+0:00:00:00 - Rule #234: '<*lI(?ac' accepted
+0:00:00:00 - Rule #235: '<*(?al)yro0ir$e' accepted
+0:00:00:00 - Rule #236: '<*(?ac)yro0ir$e' accepted
+0:00:00:00 - Rule #237: '<*(?al)er=1iD0o0yr' accepted
+0:00:00:00 - Rule #238: '<*(?ac)er=1iD0o0yr' accepted
+0:00:00:00 - Rule #239: 'l/asa4:' accepted
+0:00:00:00 - Rule #240: 'l/asa4c' accepted
+0:00:00:00 - Rule #241: 'l/ese3:' accepted
+0:00:00:00 - Rule #242: 'l/ese3c' accepted
+0:00:00:00 - Rule #243: 'l/lsl1:' accepted
+0:00:00:00 - Rule #244: 'l/lsl1c' accepted
+0:00:00:00 - Rule #245: 'l/oso0:' accepted
+0:00:00:00 - Rule #246: 'l/oso0c' accepted
+0:00:00:00 - Rule #247: 'l/sss$:' accepted
+0:00:00:00 - Rule #248: 'l/sss$c' accepted
+0:00:00:00 - Rule #249: 'l/asa4/ese3:' accepted
+0:00:00:00 - Rule #250: 'l/asa4/ese3c' accepted
+0:00:00:00 - Rule #251: 'l/asa4/lsl1:' accepted
+0:00:00:00 - Rule #252: 'l/asa4/lsl1c' accepted
+0:00:00:00 - Rule #253: 'l/asa4/oso0:' accepted
+0:00:00:00 - Rule #254: 'l/asa4/oso0c' accepted
+0:00:00:00 - Rule #255: 'l/asa4/sss$:' accepted
+0:00:00:00 - Rule #256: 'l/asa4/sss$c' accepted
+0:00:00:00 - Rule #257: 'l/ese3/lsl1:' accepted
+0:00:00:00 - Rule #258: 'l/ese3/lsl1c' accepted
+0:00:00:00 - Rule #259: 'l/ese3/oso0:' accepted
+0:00:00:00 - Rule #260: 'l/ese3/oso0c' accepted
+0:00:00:00 - Rule #261: 'l/ese3/sss$:' accepted
+0:00:00:00 - Rule #262: 'l/ese3/sss$c' accepted
+0:00:00:00 - Rule #263: 'l/lsl1/oso0:' accepted
+0:00:00:00 - Rule #264: 'l/lsl1/oso0c' accepted
+0:00:00:00 - Rule #265: 'l/lsl1/sss$:' accepted
+0:00:00:00 - Rule #266: 'l/lsl1/sss$c' accepted
+0:00:00:00 - Rule #267: 'l/oso0/sss$:' accepted
+0:00:00:00 - Rule #268: 'l/oso0/sss$c' accepted
+0:00:00:00 - Rule #269: 'l/asa4/ese3/lsl1:' accepted
+0:00:00:00 - Rule #270: 'l/asa4/ese3/lsl1c' accepted
+0:00:00:00 - Rule #271: 'l/asa4/ese3/oso0:' accepted
+0:00:00:00 - Rule #272: 'l/asa4/ese3/oso0c' accepted
+0:00:00:00 - Rule #273: 'l/asa4/ese3/sss$:' accepted
+0:00:00:00 - Rule #274: 'l/asa4/ese3/sss$c' accepted
+0:00:00:00 - Rule #275: 'l/asa4/lsl1/oso0:' accepted
+0:00:00:00 - Rule #276: 'l/asa4/lsl1/oso0c' accepted
+0:00:00:00 - Rule #277: 'l/asa4/lsl1/sss$:' accepted
+0:00:00:00 - Rule #278: 'l/asa4/lsl1/sss$c' accepted
+0:00:00:00 - Rule #279: 'l/asa4/oso0/sss$:' accepted
+0:00:00:00 - Rule #280: 'l/asa4/oso0/sss$c' accepted
+0:00:00:00 - Rule #281: 'l/ese3/lsl1/oso0:' accepted
+0:00:00:00 - Rule #282: 'l/ese3/lsl1/oso0c' accepted
+0:00:00:00 - Rule #283: 'l/ese3/lsl1/sss$:' accepted
+0:00:00:00 - Rule #284: 'l/ese3/lsl1/sss$c' accepted
+0:00:00:00 - Rule #285: 'l/ese3/oso0/sss$:' accepted
+0:00:00:00 - Rule #286: 'l/ese3/oso0/sss$c' accepted
+0:00:00:00 - Rule #287: 'l/lsl1/oso0/sss$:' accepted
+0:00:00:00 - Rule #288: 'l/lsl1/oso0/sss$c' accepted
+0:00:00:00 - Rule #289: 'l/asa4/ese3/lsl1/oso0:' accepted
+0:00:00:00 - Rule #290: 'l/asa4/ese3/lsl1/oso0c' accepted
+0:00:00:00 - Rule #291: 'l/asa4/ese3/lsl1/sss$:' accepted
+0:00:00:00 - Rule #292: 'l/asa4/ese3/lsl1/sss$c' accepted
+0:00:00:00 - Rule #293: 'l/asa4/ese3/oso0/sss$:' accepted
+0:00:00:00 - Rule #294: 'l/asa4/ese3/oso0/sss$c' accepted
+0:00:00:00 - Rule #295: 'l/asa4/lsl1/oso0/sss$:' accepted
+0:00:00:00 - Rule #296: 'l/asa4/lsl1/oso0/sss$c' accepted
+0:00:00:00 - Rule #297: 'l/ese3/lsl1/oso0/sss$:' accepted
+0:00:00:00 - Rule #298: 'l/ese3/lsl1/oso0/sss$c' accepted
+0:00:00:00 - Rule #299: 'l/asa4/ese3/lsl1/oso0/sss$:' accepted
+0:00:00:00 - Rule #300: 'l/asa4/ese3/lsl1/oso0/sss$c' accepted
+0:00:00:00 - Rule #301: 'l^1' accepted
+0:00:00:00 - Rule #302: 'l^a' accepted
+0:00:00:00 - Rule #303: 'l^b' accepted
+0:00:00:00 - Rule #304: 'l^c' accepted
+0:00:00:00 - Rule #305: 'l^d' accepted
+0:00:00:00 - Rule #306: 'l^e' accepted
+0:00:00:00 - Rule #307: 'l^f' accepted
+0:00:00:00 - Rule #308: 'l^g' accepted
+0:00:00:00 - Rule #309: 'l^h' accepted
+0:00:00:00 - Rule #310: 'l^i' accepted
+0:00:00:00 - Oldest still in use is now rule #309
+0:00:00:00 - Rule #311: 'l^j' accepted
+0:00:00:00 - Rule #312: 'l^k' accepted
+0:00:00:00 - Rule #313: 'l^l' accepted
+0:00:00:00 - Rule #314: 'l^m' accepted
+0:00:00:00 - Rule #315: 'l^n' accepted
+0:00:00:00 - Rule #316: 'l^o' accepted
+0:00:00:00 - Rule #317: 'l^p' accepted
+0:00:00:00 - Rule #318: 'l^q' accepted
+0:00:00:00 - Rule #319: 'l^r' accepted
+0:00:00:00 - Rule #320: 'l^s' accepted
+0:00:00:00 - Rule #321: 'l^t' accepted
+0:00:00:00 - Rule #322: 'l^u' accepted
+0:00:00:00 - Rule #323: 'l^v' accepted
+0:00:00:00 - Rule #324: 'l^w' accepted
+0:00:00:00 - Rule #325: 'l^x' accepted
+0:00:00:00 - Rule #326: 'l^y' accepted
+0:00:00:00 - Oldest still in use is now rule #325
+0:00:00:00 - Rule #327: 'l^z' accepted
+0:00:00:00 - Rule #328: 'l^2' accepted
+0:00:00:00 - Rule #329: 'l^3' accepted
+0:00:00:00 - Rule #330: 'l^4' accepted
+0:00:00:00 - Rule #331: 'l^5' accepted
+0:00:00:00 - Rule #332: 'l^6' accepted
+0:00:00:00 - Rule #333: 'l^7' accepted
+0:00:00:00 - Rule #334: 'l^8' accepted
+0:00:00:00 - Rule #335: 'l^9' accepted
+0:00:00:00 - Rule #336: 'l^0' accepted
+0:00:00:00 - Rule #337: 'lQ^A' accepted
+0:00:00:00 - Rule #338: 'lQ^B' accepted
+0:00:00:00 - Rule #339: 'lQ^C' accepted
+0:00:00:00 - Rule #340: 'lQ^D' accepted
+0:00:00:00 - Rule #341: 'lQ^E' accepted
+0:00:00:00 - Rule #342: 'lQ^F' accepted
+0:00:00:00 - Rule #343: 'lQ^G' accepted
+0:00:00:00 - Rule #344: 'lQ^H' accepted
+0:00:00:00 - Rule #345: 'lQ^I' accepted
+0:00:00:00 - Rule #346: 'lQ^J' accepted
+0:00:00:00 - Rule #347: 'lQ^K' accepted
+0:00:00:00 - Rule #348: 'lQ^L' accepted
+0:00:00:00 - Rule #349: 'lQ^M' accepted
+0:00:00:00 - Rule #350: 'lQ^N' accepted
+0:00:00:00 - Rule #351: 'lQ^O' accepted
+0:00:00:00 - Rule #352: 'lQ^P' accepted
+0:00:00:00 - Rule #353: 'lQ^Q' accepted
+0:00:00:00 - Rule #354: 'lQ^R' accepted
+0:00:00:00 - Rule #355: 'lQ^S' accepted
+0:00:00:00 - Rule #356: 'lQ^T' accepted
+0:00:00:00 - Rule #357: 'lQ^U' accepted
+0:00:00:00 - Rule #358: 'lQ^V' accepted
+0:00:00:00 - Rule #359: 'lQ^W' accepted
+0:00:00:00 - Rule #360: 'lQ^X' accepted
+0:00:00:00 - Rule #361: 'lQ^Y' accepted
+0:00:00:00 - Rule #362: 'lQ^Z' accepted
+0:00:00:00 - Rule #363: '^A' accepted
+0:00:00:00 - Rule #364: '^B' accepted
+0:00:00:00 - Rule #365: '^C' accepted
+0:00:00:00 - Rule #366: '^D' accepted
+0:00:00:00 - Rule #367: '^E' accepted
+0:00:00:00 - Rule #368: '^F' accepted
+0:00:00:00 - Oldest still in use is now rule #367
+0:00:00:00 - Rule #369: '^G' accepted
+0:00:00:00 - Rule #370: '^H' accepted
+0:00:00:00 - Rule #371: '^I' accepted
+0:00:00:00 - Rule #372: '^J' accepted
+0:00:00:00 - Rule #373: '^K' accepted
+0:00:00:00 - Rule #374: '^L' accepted
+0:00:00:00 - Rule #375: '^M' accepted
+0:00:00:00 - Rule #376: '^N' accepted
+0:00:00:00 - Rule #377: '^O' accepted
+0:00:00:00 - Rule #378: '^P' accepted
+0:00:00:00 - Rule #379: '^Q' accepted
+0:00:00:00 - Rule #380: '^R' accepted
+0:00:00:00 - Rule #381: '^S' accepted
+0:00:00:00 - Rule #382: '^T' accepted
+0:00:00:00 - Rule #383: '^U' accepted
+0:00:00:00 - Rule #384: '^V' accepted
+0:00:00:00 - Oldest still in use is now rule #383
+0:00:00:00 - Rule #385: '^W' accepted
+0:00:00:00 - Rule #386: '^X' accepted
+0:00:00:00 - Rule #387: '^Y' accepted
+0:00:00:00 - Rule #388: '^Z' accepted
+0:00:00:00 - Rule #389: 'l^"' accepted
+0:00:00:00 - Rule #390: 'l^#' accepted
+0:00:00:00 - Rule #391: 'l^$' accepted
+0:00:00:00 - Rule #392: 'l^%' accepted
+0:00:00:00 - Rule #393: 'l^&' accepted
+0:00:00:00 - Rule #394: 'l^'' accepted
+0:00:00:00 - Rule #395: 'l^(' accepted
+0:00:00:00 - Rule #396: 'l^)' accepted
+0:00:00:00 - Rule #397: 'l^*' accepted
+0:00:00:00 - Rule #398: 'l^+' accepted
+0:00:00:00 - Rule #399: 'l^,' accepted
+0:00:00:00 - Rule #400: 'l^-' accepted
+0:00:00:00 - Oldest still in use is now rule #399
+0:00:00:00 - Rule #401: 'l^.' accepted
+0:00:00:00 - Rule #402: 'l^/' accepted
+0:00:00:00 - Rule #403: 'l^:' accepted
+0:00:00:00 - Rule #404: 'l^;' accepted
+0:00:00:00 - Rule #405: 'l^<' accepted
+0:00:00:00 - Rule #406: 'l^=' accepted
+0:00:00:00 - Rule #407: 'l^>' accepted
+0:00:00:00 - Rule #408: 'l^?' accepted
+0:00:00:00 - Rule #409: 'l^@' accepted
+0:00:00:00 - Rule #410: 'l^[' accepted
+0:00:00:00 - Rule #411: 'l^\' accepted
+0:00:00:00 - Rule #412: 'l^]' accepted
+0:00:00:00 - Rule #413: 'l^^' accepted
+0:00:00:00 - Rule #414: 'l^_' accepted
+0:00:00:00 - Rule #415: 'l^`' accepted
+0:00:00:00 - Rule #416: 'l^{' accepted
+0:00:00:00 - Oldest still in use is now rule #415
+0:00:00:00 - Rule #417: 'l^|' accepted
+0:00:00:00 - Rule #418: 'l^}' accepted
+0:00:00:00 - Rule #419: 'l^~' accepted
+0:00:00:00 - Rule #420: '<9(?al^e^h^t' accepted
+0:00:00:00 - Rule #421: '<9(?al^e^h^T' accepted
+0:00:00:00 - Rule #422: '<9(?ac^e^h^t' accepted
+0:00:00:00 - Rule #423: '<9(?ac^e^h^T' accepted
+0:00:00:00 - Rule #424: '<9(?al^y^m^a' accepted
+0:00:00:00 - Rule #425: '<9(?al^y^m^A' accepted
+0:00:00:00 - Rule #426: '<9(?ac^y^m^a' accepted
+0:00:00:00 - Rule #427: '<9(?ac^y^m^A' accepted
+0:00:00:00 - Rule #428: '<9(?al^r^m' accepted
+0:00:00:00 - Rule #429: '<9(?al^r^d' accepted
+0:00:00:00 - Rule #430: '<9(?al^r^M' accepted
+0:00:00:00 - Rule #431: '<9(?al^r^D' accepted
+0:00:00:00 - Rule #432: '<9(?ac^r^m' accepted
+0:00:00:00 - Rule #433: '<9(?ac^r^d' accepted
+0:00:00:00 - Rule #434: '<9(?ac^r^M' accepted
+0:00:00:00 - Rule #435: '<9(?ac^r^D' accepted
+0:00:00:00 - Rule #436: '<9(?al^.^r^m' accepted
+0:00:00:00 - Rule #437: '<9(?al^.^r^d' accepted
+0:00:00:00 - Rule #438: '<9(?al^.^r^M' accepted
+0:00:00:00 - Rule #439: '<9(?al^.^r^D' accepted
+0:00:00:00 - Rule #440: '<9(?ac^.^r^m' accepted
+0:00:00:00 - Rule #441: '<9(?ac^.^r^d' accepted
+0:00:00:00 - Rule #442: '<9(?ac^.^r^M' accepted
+0:00:00:00 - Rule #443: '<9(?ac^.^r^D' accepted
+0:00:00:00 - Oldest still in use is now rule #442
+0:00:00:00 - Rule #444: '<9(?al^_^_' accepted
+0:00:00:00 - Rule #445: '<9(?ac^_^_' accepted
+0:00:00:00 - Rule #446: '<-!?Alp^2' accepted
+0:00:00:00 - Rule #447: '<-!?Alp^4' accepted
+0:00:00:00 - Rule #448: '<-!?Alp^0' accepted
+0:00:00:00 - Rule #449: '<-!?Alp^1' accepted
+0:00:00:00 - Rule #450: '<-!?Alp^3' accepted
+0:00:00:00 - Rule #451: '<-!?Alp^5' accepted
+0:00:00:00 - Rule #452: '<-!?Alp^6' accepted
+0:00:00:00 - Rule #453: '<-!?Alp^7' accepted
+0:00:00:00 - Rule #454: '<-!?Alp^8' accepted
+0:00:00:00 - Rule #455: '<-!?Alp^9' accepted
+0:00:00:00 - Rule #456: '(?a2(?ac1c' accepted
+0:00:00:00 - Rule #457: '(?a2(?ac1l' accepted
+0:00:00:00 - Rule #458: '1<-$ +l' accepted
+0:00:00:00 - Rule #459: '1<-$_+l' accepted
+0:00:00:00 - Rule #460: '1<-$-+l' accepted
+0:00:00:00 - Rule #461: '1<-(?ac$ 2l' accepted
+0:00:00:00 - Rule #462: '1<-(?ac$_2l' accepted
+0:00:00:00 - Rule #463: '1<-(?ac$-2l' accepted
+0:00:00:00 - Rule #464: '1<-l$ 2(?ac' accepted
+0:00:00:00 - Rule #465: '1<-l$_2(?ac' accepted
+0:00:00:00 - Rule #466: '1<-l$-2(?ac' accepted
+0:00:00:00 - Rule #467: '1<-(?ac$ 2(?ac' accepted
+0:00:00:00 - Rule #468: '1<-(?ac$_2(?ac' accepted
+0:00:00:00 - Rule #469: '1<-(?ac$-2(?ac' accepted
+0:00:00:00 - Rule #470: '1u2l' accepted
+0:00:00:00 - Rule #471: '1r2l' accepted
+0:00:00:00 - Rule #472: '2(?ac1u' accepted
+0:00:00:00 - Rule #473: '2(?ac1r' accepted
+0:00:00:00 - Rule #474: '1l2u' accepted
+0:00:00:00 - Rule #475: '1l2r' accepted
+0:00:00:00 - Rule #476: '1(?ac2u' accepted
+0:00:00:00 - Rule #477: '1(?ac2r' accepted
+0:00:00:00 - Rule #478: '(?al{' accepted
+0:00:00:00 - Rule #479: '(?al}' accepted
+0:00:00:00 - Rule #480: '(?ac{' accepted
+0:00:00:00 - Rule #481: '(?ac}' accepted
+0:00:00:00 - Rule #482: '(?al}}' accepted
+0:00:00:00 - Rule #483: '(?ac}}' accepted
+0:00:00:00 - Rule #484: '(?al{{' accepted
+0:00:00:00 - Rule #485: '(?ac{{' accepted
+0:00:00:00 - Rule #486: 'T1Q' accepted
+0:00:00:00 - Rule #487: 'T2Q' accepted
+0:00:00:00 - Rule #488: 'T3Q' accepted
+0:00:00:00 - Rule #489: 'T4Q' accepted
+0:00:00:00 - Rule #490: 'T5Q' accepted
+0:00:00:00 - Rule #491: 'T6Q' accepted
+0:00:00:00 - Rule #492: 'T7Q' accepted
+0:00:00:00 - Rule #493: 'lMT1Q' accepted
+0:00:00:00 - Rule #494: 'lMT2Q' accepted
+0:00:00:00 - Rule #495: 'lMT3Q' accepted
+0:00:00:00 - Rule #496: 'lMT4Q' accepted
+0:00:00:00 - Rule #497: 'lMT5Q' accepted
+0:00:00:00 - Rule #498: 'lMT6Q' accepted
+0:00:00:00 - Rule #499: 'lMT7Q' accepted
+0:00:00:00 - Rule #500: '>2lMT0T2T4T6T8Q' accepted
+0:00:00:00 - Rule #501: '>2uMT0T2T4T6T8Q' accepted
+0:00:00:00 - Rule #502: 'D1Q' accepted
+0:00:00:00 - Rule #503: 'D2Q' accepted
+0:00:00:00 - Rule #504: 'D3Q' accepted
+0:00:00:00 - Rule #505: 'D4Q' accepted
+0:00:00:00 - Oldest still in use is now rule #504
+0:00:00:00 - Rule #506: 'D5Q' accepted
+0:00:00:00 - Rule #507: 'D6Q' accepted
+0:00:00:00 - Rule #508: 'D7Q' accepted
+0:00:00:00 - Rule #509: 'D1Q/?ul' accepted
+0:00:00:00 - Rule #510: 'D2Q/?ul' accepted
+0:00:00:00 - Rule #511: 'D3Q/?ul' accepted
+0:00:00:00 - Rule #512: 'D4Q/?ul' accepted
+0:00:00:00 - Rule #513: 'D5Q/?ul' accepted
+0:00:00:00 - Rule #514: 'D6Q/?ul' accepted
+0:00:00:00 - Rule #515: 'D7Q/?ul' accepted
+0:00:00:00 - Rule #516: 'D1Q(?ac' accepted
+0:00:00:00 - Rule #517: 'D2Q(?ac' accepted
+0:00:00:00 - Rule #518: 'D3Q(?ac' accepted
+0:00:00:00 - Rule #519: 'D4Q(?ac' accepted
+0:00:00:00 - Rule #520: 'D5Q(?ac' accepted
+0:00:00:00 - Rule #521: 'D6Q(?ac' accepted
+0:00:00:00 - Rule #522: 'D7Q(?ac' accepted
+0:00:00:00 - Rule #523: '>3(?ali1.' accepted
+0:00:00:00 - Rule #524: '>3(?ali2.' accepted
+0:00:00:00 - Rule #525: '>3(?aci1.' accepted
+0:00:00:00 - Rule #526: '>3(?aci2.' accepted
+0:00:00:00 - Rule #527: '<-l$1$0' accepted
+0:00:00:00 - Rule #528: '<-l$1$1' accepted
+0:00:00:00 - Rule #529: '<-l$1$2' accepted
+0:00:00:00 - Rule #530: '<-l$1$3' accepted
+0:00:00:00 - Rule #531: '<-l$1$4' accepted
+0:00:00:00 - Rule #532: '<-l$1$5' accepted
+0:00:00:00 - Rule #533: '<-l$1$6' accepted
+0:00:00:00 - Rule #534: '<-l$1$7' accepted
+0:00:00:00 - Rule #535: '<-l$1$8' accepted
+0:00:00:00 - Rule #536: '<-l$1$9' accepted
+0:00:00:00 - Rule #537: '<-l$9$0' accepted
+0:00:00:00 - Rule #538: '<-l$9$1' accepted
+0:00:00:00 - Rule #539: '<-l$9$2' accepted
+0:00:00:00 - Rule #540: '<-l$9$3' accepted
+0:00:00:00 - Rule #541: '<-l$9$4' accepted
+0:00:00:00 - Oldest still in use is now rule #540
+0:00:00:00 - Rule #542: '<-l$9$5' accepted
+0:00:00:00 - Rule #543: '<-l$9$6' accepted
+0:00:00:00 - Rule #544: '<-l$9$7' accepted
+0:00:00:00 - Rule #545: '<-l$9$8' accepted
+0:00:00:00 - Rule #546: '<-l$9$9' accepted
+0:00:00:00 - Rule #547: '<-l$0$0' accepted
+0:00:00:00 - Rule #548: '<-l$0$1' accepted
+0:00:00:00 - Rule #549: '<-l$0$2' accepted
+0:00:00:00 - Rule #550: '<-l$0$3' accepted
+0:00:00:00 - Rule #551: '<-l$0$4' accepted
+0:00:00:00 - Rule #552: '<-l$0$5' accepted
+0:00:00:00 - Rule #553: '<-l$0$6' accepted
+0:00:00:00 - Rule #554: '<-l$0$7' accepted
+0:00:00:00 - Rule #555: '<-l$0$8' accepted
+0:00:00:00 - Rule #556: '<-l$0$9' accepted
+0:00:00:00 - Rule #557: '<-(?ac$1$0' accepted
+0:00:00:00 - Rule #558: '<-(?ac$1$1' accepted
+0:00:00:00 - Rule #559: '<-(?ac$1$2' accepted
+0:00:00:00 - Rule #560: '<-(?ac$1$3' accepted
+0:00:00:00 - Rule #561: '<-(?ac$1$4' accepted
+0:00:00:00 - Rule #562: '<-(?ac$1$5' accepted
+0:00:00:00 - Rule #563: '<-(?ac$1$6' accepted
+0:00:00:00 - Rule #564: '<-(?ac$1$7' accepted
+0:00:00:00 - Oldest still in use is now rule #563
+0:00:00:00 - Rule #565: '<-(?ac$1$8' accepted
+0:00:00:00 - Rule #566: '<-(?ac$1$9' accepted
+0:00:00:00 - Rule #567: '<-(?ac$9$0' accepted
+0:00:00:00 - Rule #568: '<-(?ac$9$1' accepted
+0:00:00:00 - Rule #569: '<-(?ac$9$2' accepted
+0:00:00:00 - Rule #570: '<-(?ac$9$3' accepted
+0:00:00:00 - Rule #571: '<-(?ac$9$4' accepted
+0:00:00:00 - Rule #572: '<-(?ac$9$5' accepted
+0:00:00:00 - Rule #573: '<-(?ac$9$6' accepted
+0:00:00:00 - Rule #574: '<-(?ac$9$7' accepted
+0:00:00:00 - Rule #575: '<-(?ac$9$8' accepted
+0:00:00:00 - Rule #576: '<-(?ac$9$9' accepted
+0:00:00:00 - Rule #577: '<-(?ac$0$0' accepted
+0:00:00:00 - Rule #578: '<-(?ac$0$1' accepted
+0:00:00:00 - Rule #579: '<-(?ac$0$2' accepted
+0:00:00:00 - Rule #580: '<-(?ac$0$3' accepted
+0:00:00:00 - Rule #581: '<-(?ac$0$4' accepted
+0:00:00:00 - Rule #582: '<-(?ac$0$5' accepted
+0:00:00:00 - Rule #583: '<-(?ac$0$6' accepted
+0:00:00:00 - Rule #584: '<-(?ac$0$7' accepted
+0:00:00:00 - Rule #585: '<-(?ac$0$8' accepted
+0:00:00:00 - Rule #586: '<-(?ac$0$9' accepted
+0:00:00:00 - Rule #587: '<-l$7$0' accepted
+0:00:00:00 - Rule #588: '<-l$7$1' accepted
+0:00:00:00 - Rule #589: '<-l$7$2' accepted
+0:00:00:00 - Rule #590: '<-l$7$3' accepted
+0:00:00:00 - Rule #591: '<-l$7$4' accepted
+0:00:00:00 - Rule #592: '<-l$7$5' accepted
+0:00:00:00 - Rule #593: '<-l$7$6' accepted
+0:00:00:00 - Oldest still in use is now rule #592
+0:00:00:00 - Rule #594: '<-l$7$7' accepted
+0:00:00:00 - Rule #595: '<-l$7$8' accepted
+0:00:00:00 - Rule #596: '<-l$7$9' accepted
+0:00:00:00 - Rule #597: '<-l$8$0' accepted
+0:00:00:00 - Rule #598: '<-l$8$1' accepted
+0:00:00:00 - Rule #599: '<-l$8$2' accepted
+0:00:00:00 - Rule #600: '<-l$8$3' accepted
+0:00:00:00 - Rule #601: '<-l$8$4' accepted
+0:00:00:00 - Rule #602: '<-l$8$5' accepted
+0:00:00:00 - Rule #603: '<-l$8$6' accepted
+0:00:00:00 - Rule #604: '<-l$8$7' accepted
+0:00:00:00 - Rule #605: '<-l$8$8' accepted
+0:00:00:00 - Rule #606: '<-l$8$9' accepted
+0:00:00:00 - Rule #607: '<-l$2$0' accepted
+0:00:00:00 - Rule #608: '<-l$2$1' accepted
+0:00:00:00 - Rule #609: '<-l$2$2' accepted
+0:00:00:00 - Rule #610: '<-l$2$3' accepted
+0:00:00:00 - Rule #611: '<-l$2$4' accepted
+0:00:00:00 - Rule #612: '<-l$2$5' accepted
+0:00:00:00 - Rule #613: '<-l$2$6' accepted
+0:00:00:00 - Rule #614: '<-l$2$7' accepted
+0:00:00:00 - Rule #615: '<-l$2$8' accepted
+0:00:00:00 - Oldest still in use is now rule #614
+0:00:00:00 - Rule #616: '<-l$2$9' accepted
+0:00:00:00 - Rule #617: '<-(?ac$7$0' accepted
+0:00:00:00 - Rule #618: '<-(?ac$7$1' accepted
+0:00:00:00 - Rule #619: '<-(?ac$7$2' accepted
+0:00:00:00 - Rule #620: '<-(?ac$7$3' accepted
+0:00:00:00 - Rule #621: '<-(?ac$7$4' accepted
+0:00:00:00 - Rule #622: '<-(?ac$7$5' accepted
+0:00:00:00 - Rule #623: '<-(?ac$7$6' accepted
+0:00:00:00 - Rule #624: '<-(?ac$7$7' accepted
+0:00:00:00 - Rule #625: '<-(?ac$7$8' accepted
+0:00:00:00 - Rule #626: '<-(?ac$7$9' accepted
+0:00:00:00 - Rule #627: '<-(?ac$8$0' accepted
+0:00:00:00 - Rule #628: '<-(?ac$8$1' accepted
+0:00:00:00 - Rule #629: '<-(?ac$8$2' accepted
+0:00:00:00 - Rule #630: '<-(?ac$8$3' accepted
+0:00:00:00 - Rule #631: '<-(?ac$8$4' accepted
+0:00:00:00 - Rule #632: '<-(?ac$8$5' accepted
+0:00:00:00 - Rule #633: '<-(?ac$8$6' accepted
+0:00:00:00 - Rule #634: '<-(?ac$8$7' accepted
+0:00:00:00 - Rule #635: '<-(?ac$8$8' accepted
+0:00:00:00 - Rule #636: '<-(?ac$8$9' accepted
+0:00:00:00 - Rule #637: '<-(?ac$2$0' accepted
+0:00:00:00 - Rule #638: '<-(?ac$2$1' accepted
+0:00:00:00 - Rule #639: '<-(?ac$2$2' accepted
+0:00:00:00 - Rule #640: '<-(?ac$2$3' accepted
+0:00:00:00 - Rule #641: '<-(?ac$2$4' accepted
+0:00:00:00 - Rule #642: '<-(?ac$2$5' accepted
+0:00:00:00 - Rule #643: '<-(?ac$2$6' accepted
+0:00:00:00 - Rule #644: '<-(?ac$2$7' accepted
+0:00:00:00 - Rule #645: '<-(?ac$2$8' accepted
+0:00:00:00 - Oldest still in use is now rule #644
+0:00:00:00 - Rule #646: '<-(?ac$2$9' accepted
+0:00:00:00 - Rule #647: '<*(?al$A' accepted
+0:00:00:00 - Rule #648: '<*(?al$B' accepted
+0:00:00:00 - Rule #649: '<*(?al$C' accepted
+0:00:00:00 - Rule #650: '<*(?al$D' accepted
+0:00:00:00 - Rule #651: '<*(?al$E' accepted
+0:00:00:00 - Rule #652: '<*(?al$F' accepted
+0:00:00:00 - Rule #653: '<*(?al$G' accepted
+0:00:00:00 - Rule #654: '<*(?al$H' accepted
+0:00:00:00 - Rule #655: '<*(?al$I' accepted
+0:00:00:00 - Rule #656: '<*(?al$J' accepted
+0:00:00:00 - Rule #657: '<*(?al$K' accepted
+0:00:00:00 - Rule #658: '<*(?al$L' accepted
+0:00:00:00 - Rule #659: '<*(?al$M' accepted
+0:00:00:00 - Rule #660: '<*(?al$N' accepted
+0:00:00:00 - Rule #661: '<*(?al$O' accepted
+0:00:00:00 - Rule #662: '<*(?al$P' accepted
+0:00:00:00 - Rule #663: '<*(?al$Q' accepted
+0:00:00:00 - Rule #664: '<*(?al$R' accepted
+0:00:00:00 - Rule #665: '<*(?al$S' accepted
+0:00:00:00 - Rule #666: '<*(?al$T' accepted
+0:00:00:00 - Rule #667: '<*(?al$U' accepted
+0:00:00:00 - Rule #668: '<*(?al$V' accepted
+0:00:00:00 - Rule #669: '<*(?al$W' accepted
+0:00:00:00 - Rule #670: '<*(?al$X' accepted
+0:00:00:00 - Rule #671: '<*(?al$Y' accepted
+0:00:00:00 - Rule #672: '<*(?al$Z' accepted
+0:00:00:00 - Rule #673: '<*(?ac$A' accepted
+0:00:00:00 - Rule #674: '<*(?ac$B' accepted
+0:00:00:00 - Rule #675: '<*(?ac$C' accepted
+0:00:00:00 - Rule #676: '<*(?ac$D' accepted
+0:00:00:00 - Rule #677: '<*(?ac$E' accepted
+0:00:00:00 - Oldest still in use is now rule #676
+0:00:00:00 - Rule #678: '<*(?ac$F' accepted
+0:00:00:00 - Rule #679: '<*(?ac$G' accepted
+0:00:00:00 - Rule #680: '<*(?ac$H' accepted
+0:00:00:00 - Rule #681: '<*(?ac$I' accepted
+0:00:00:00 - Rule #682: '<*(?ac$J' accepted
+0:00:00:00 - Rule #683: '<*(?ac$K' accepted
+0:00:00:00 - Rule #684: '<*(?ac$L' accepted
+0:00:00:00 - Rule #685: '<*(?ac$M' accepted
+0:00:00:00 - Rule #686: '<*(?ac$N' accepted
+0:00:00:00 - Rule #687: '<*(?ac$O' accepted
+0:00:00:00 - Rule #688: '<*(?ac$P' accepted
+0:00:00:00 - Rule #689: '<*(?ac$Q' accepted
+0:00:00:00 - Rule #690: '<*(?ac$R' accepted
+0:00:00:00 - Rule #691: '<*(?ac$S' accepted
+0:00:00:00 - Rule #692: '<*(?ac$T' accepted
+0:00:00:00 - Rule #693: '<*(?ac$U' accepted
+0:00:00:00 - Rule #694: '<*(?ac$V' accepted
+0:00:00:00 - Rule #695: '<*(?ac$W' accepted
+0:00:00:00 - Rule #696: '<*(?ac$X' accepted
+0:00:00:00 - Rule #697: '<*(?ac$Y' accepted
+0:00:00:00 - Rule #698: '<*(?ac$Z' accepted
+0:00:00:00 - Rule #699: 'u/IsIi' accepted
+0:00:00:00 - Rule #700: 'CQ' accepted
+0:00:00:00 - Rule #701: 'SQ' accepted
+0:00:00:00 - Rule #702: '/?vVQ' accepted
+0:00:00:00 - Rule #703: ':RQ' accepted as 'RQ'
+0:00:00:00 - Rule #704: ':LQ' accepted as 'LQ'
+0:00:00:00 - Rule #705: 'lQR' accepted
+0:00:00:00 - Rule #706: 'lQL' accepted
+0:00:00:00 - Rule #707: '(?acQR' accepted
+0:00:00:00 - Rule #708: '(?acQL' accepted
+0:00:00:00 - Rule #709: 'RRQ' accepted
+0:00:00:00 - Oldest still in use is now rule #708
+0:00:00:00 - Rule #710: 'LLQ' accepted
+0:00:00:00 - Rule #711: '<-l^1$1' accepted
+0:00:00:00 - Rule #712: '<-l^!$!' accepted
+0:00:00:00 - Rule #713: '<-l^@$@' accepted
+0:00:00:00 - Rule #714: '<-l^#$#' accepted
+0:00:00:00 - Rule #715: '<-l^$$$' accepted
+0:00:00:00 - Rule #716: '<-l^%$%' accepted
+0:00:00:00 - Rule #717: '<-l^^$^' accepted
+0:00:00:00 - Rule #718: '<-l^&$&' accepted
+0:00:00:00 - Rule #719: '<-l^*$*' accepted
+0:00:00:00 - Rule #720: '<-l^($)' accepted
+0:00:00:00 - Rule #721: '<-l^-$-' accepted
+0:00:00:00 - Rule #722: '<-l^=$=' accepted
+0:00:00:00 - Rule #723: '<-l^_$_' accepted
+0:00:00:00 - Rule #724: '<-l^+$+' accepted
+0:00:00:00 - Rule #725: '<-l^.$.' accepted
+0:00:00:00 - Rule #726: '<-l^?$?' accepted
+0:00:00:00 - Rule #727: '<-l^{$}' accepted
+0:00:00:00 - Rule #728: '<-l^[$]' accepted
+0:00:00:00 - Rule #729: '<-l^<$>' accepted
+0:00:00:00 - Oldest still in use is now rule #728
+0:00:00:00 - Rule #730: '<-l^|$|' accepted
+0:00:00:00 - Rule #731: '<-l^:$:' accepted
+0:00:00:00 - Rule #732: '<-l^'$'' accepted
+0:00:00:00 - Rule #733: '<-l^"$"' accepted
+0:00:00:00 - Rule #734: '<-l$6$0' accepted
+0:00:00:00 - Rule #735: '<-l$6$1' accepted
+0:00:00:00 - Rule #736: '<-l$6$2' accepted
+0:00:00:00 - Rule #737: '<-l$6$3' accepted
+0:00:00:00 - Rule #738: '<-l$6$4' accepted
+0:00:00:00 - Rule #739: '<-l$6$5' accepted
+0:00:00:00 - Rule #740: '<-l$6$6' accepted
+0:00:00:00 - Rule #741: '<-l$6$7' accepted
+0:00:00:00 - Rule #742: '<-l$6$8' accepted
+0:00:00:00 - Rule #743: '<-l$6$9' accepted
+0:00:00:00 - Rule #744: '<-l$3$0' accepted
+0:00:00:00 - Rule #745: '<-l$3$1' accepted
+0:00:00:00 - Rule #746: '<-l$3$2' accepted
+0:00:00:00 - Rule #747: '<-l$3$3' accepted
+0:00:00:00 - Rule #748: '<-l$3$4' accepted
+0:00:00:00 - Rule #749: '<-l$3$5' accepted
+0:00:00:00 - Rule #750: '<-l$3$6' accepted
+0:00:00:00 - Rule #751: '<-l$3$7' accepted
+0:00:00:00 - Oldest still in use is now rule #750
+0:00:00:00 - Rule #752: '<-l$3$8' accepted
+0:00:00:00 - Rule #753: '<-l$3$9' accepted
+0:00:00:00 - Rule #754: '<-l$4$0' accepted
+0:00:00:00 - Rule #755: '<-l$4$1' accepted
+0:00:00:00 - Rule #756: '<-l$4$2' accepted
+0:00:00:00 - Rule #757: '<-l$4$3' accepted
+0:00:00:00 - Rule #758: '<-l$4$4' accepted
+0:00:00:00 - Rule #759: '<-l$4$5' accepted
+0:00:00:00 - Rule #760: '<-l$4$6' accepted
+0:00:00:00 - Rule #761: '<-l$4$7' accepted
+0:00:00:00 - Rule #762: '<-l$4$8' accepted
+0:00:00:00 - Rule #763: '<-l$4$9' accepted
+0:00:00:00 - Rule #764: '<-l$5$0' accepted
+0:00:00:00 - Rule #765: '<-l$5$1' accepted
+0:00:00:00 - Rule #766: '<-l$5$2' accepted
+0:00:00:00 - Rule #767: '<-l$5$3' accepted
+0:00:00:00 - Rule #768: '<-l$5$4' accepted
+0:00:00:00 - Rule #769: '<-l$5$5' accepted
+0:00:00:00 - Rule #770: '<-l$5$6' accepted
+0:00:00:00 - Rule #771: '<-l$5$7' accepted
+0:00:00:00 - Rule #772: '<-l$5$8' accepted
+0:00:00:00 - Oldest still in use is now rule #771
+0:00:00:00 - Rule #773: '<-l$5$9' accepted
+0:00:00:00 - Rule #774: '<-(?ac$6$0' accepted
+0:00:00:00 - Rule #775: '<-(?ac$6$1' accepted
+0:00:00:00 - Rule #776: '<-(?ac$6$2' accepted
+0:00:00:00 - Rule #777: '<-(?ac$6$3' accepted
+0:00:00:00 - Rule #778: '<-(?ac$6$4' accepted
+0:00:00:00 - Rule #779: '<-(?ac$6$5' accepted
+0:00:00:00 - Rule #780: '<-(?ac$6$6' accepted
+0:00:00:00 - Rule #781: '<-(?ac$6$7' accepted
+0:00:00:00 - Rule #782: '<-(?ac$6$8' accepted
+0:00:00:00 - Rule #783: '<-(?ac$6$9' accepted
+0:00:00:00 - Rule #784: '<-(?ac$3$0' accepted
+0:00:00:00 - Rule #785: '<-(?ac$3$1' accepted
+0:00:00:00 - Rule #786: '<-(?ac$3$2' accepted
+0:00:00:00 - Rule #787: '<-(?ac$3$3' accepted
+0:00:00:00 - Rule #788: '<-(?ac$3$4' accepted
+0:00:00:00 - Rule #789: '<-(?ac$3$5' accepted
+0:00:00:00 - Rule #790: '<-(?ac$3$6' accepted
+0:00:00:00 - Rule #791: '<-(?ac$3$7' accepted
+0:00:00:00 - Rule #792: '<-(?ac$3$8' accepted
+0:00:00:00 - Rule #793: '<-(?ac$3$9' accepted
+0:00:00:00 - Rule #794: '<-(?ac$4$0' accepted
+0:00:00:00 - Rule #795: '<-(?ac$4$1' accepted
+0:00:00:00 - Rule #796: '<-(?ac$4$2' accepted
+0:00:00:00 - Rule #797: '<-(?ac$4$3' accepted
+0:00:00:00 - Rule #798: '<-(?ac$4$4' accepted
+0:00:00:00 - Rule #799: '<-(?ac$4$5' accepted
+0:00:00:00 - Rule #800: '<-(?ac$4$6' accepted
+0:00:00:00 - Rule #801: '<-(?ac$4$7' accepted
+0:00:00:00 - Rule #802: '<-(?ac$4$8' accepted
+0:00:00:00 - Rule #803: '<-(?ac$4$9' accepted
+0:00:00:00 - Oldest still in use is now rule #802
+0:00:00:00 - Rule #804: '<-(?ac$5$0' accepted
+0:00:00:00 - Rule #805: '<-(?ac$5$1' accepted
+0:00:00:00 - Rule #806: '<-(?ac$5$2' accepted
+0:00:00:00 - Rule #807: '<-(?ac$5$3' accepted
+0:00:00:00 - Rule #808: '<-(?ac$5$4' accepted
+0:00:00:00 - Rule #809: '<-(?ac$5$5' accepted
+0:00:00:00 - Rule #810: '<-(?ac$5$6' accepted
+0:00:00:00 - Rule #811: '<-(?ac$5$7' accepted
+0:00:00:00 - Rule #812: '<-(?ac$5$8' accepted
+0:00:00:00 - Rule #813: '<-(?ac$5$9' accepted
+0:00:00:00 - Rule #814: '(?al$0<-$0$7' accepted
+0:00:00:00 - Rule #815: '(?ac$0<-$0$7' accepted
+0:00:00:00 - Rule #816: '(?al$1<-$1$1' accepted
+0:00:00:00 - Rule #817: '(?ac$1<-$1$1' accepted
+0:00:00:00 - Rule #818: '(?al$1<-$2$3' accepted
+0:00:00:00 - Rule #819: '(?ac$1<-$2$3' accepted
+0:00:00:00 - Rule #820: '(?al$2<-$2$2' accepted
+0:00:00:00 - Rule #821: '(?ac$2<-$2$2' accepted
+0:00:00:00 - Rule #822: '(?al$3<-$3$3' accepted
+0:00:00:00 - Rule #823: '(?ac$3<-$3$3' accepted
+0:00:00:00 - Rule #824: '(?al$4<-$4$4' accepted
+0:00:00:00 - Rule #825: '(?ac$4<-$4$4' accepted
+0:00:00:00 - Rule #826: '(?al$5<-$5$5' accepted
+0:00:00:00 - Rule #827: '(?ac$5<-$5$5' accepted
+0:00:00:00 - Rule #828: '(?al$6<-$6$6' accepted
+0:00:00:00 - Rule #829: '(?ac$6<-$6$6' accepted
+0:00:00:00 - Rule #830: '(?al$7<-$7$7' accepted
+0:00:00:00 - Rule #831: '(?ac$7<-$7$7' accepted
+0:00:00:00 - Rule #832: '(?al$8<-$8$8' accepted
+0:00:00:00 - Rule #833: '(?ac$8<-$8$8' accepted
+0:00:00:00 - Rule #834: '(?al$9<-$9$9' accepted
+0:00:00:00 - Rule #835: '(?ac$9<-$9$9' accepted
+0:00:00:00 - Rule #836: 'l$1<-$9$7>-' accepted
+0:00:00:00 - Rule #837: 'l$1<-$9$8>-' accepted
+0:00:00:00 - Rule #838: 'l$1<-$9$9>-' accepted
+0:00:00:00 - Rule #839: 'l$1<-$9$6>-' accepted
+0:00:00:00 - Rule #840: 'l$1<-$9$5>-' accepted
+0:00:00:00 - Rule #841: 'l$1<-$9$4>-' accepted
+0:00:00:00 - Rule #842: 'l$1<-$9$3>-' accepted
+0:00:00:00 - Rule #843: 'l$1<-$9$2>-' accepted
+0:00:00:00 - Rule #844: 'l$1<-$9$1>-' accepted
+0:00:00:00 - Rule #845: 'l$1<-$9$0>-' accepted
+0:00:00:00 - Rule #846: 'l$2<-$0$0>-' accepted
+0:00:00:00 - Oldest still in use is now rule #845
+0:00:00:00 - Rule #847: 'l$1$9<-$7$0' accepted
+0:00:00:00 - Rule #848: 'l$1$9<-$7$1' accepted
+0:00:00:00 - Rule #849: 'l$1$9<-$7$2' accepted
+0:00:00:00 - Rule #850: 'l$1$9<-$7$3' accepted
+0:00:00:00 - Rule #851: 'l$1$9<-$7$4' accepted
+0:00:00:00 - Rule #852: 'l$1$9<-$7$5' accepted
+0:00:00:00 - Rule #853: 'l$1$9<-$7$6' accepted
+0:00:00:00 - Rule #854: 'l$1$9<-$7$7' accepted
+0:00:00:00 - Rule #855: 'l$1$9<-$7$8' accepted
+0:00:00:00 - Rule #856: 'l$1$9<-$7$9' accepted
+0:00:00:00 - Rule #857: 'l$1$9<-$8$0' accepted
+0:00:00:00 - Rule #858: 'l$1$9<-$8$1' accepted
+0:00:00:00 - Rule #859: 'l$1$9<-$8$2' accepted
+0:00:00:00 - Rule #860: 'l$1$9<-$8$3' accepted
+0:00:00:00 - Rule #861: 'l$1$9<-$8$4' accepted
+0:00:00:00 - Rule #862: 'l$1$9<-$8$5' accepted
+0:00:00:00 - Rule #863: 'l$1$9<-$8$6' accepted
+0:00:00:00 - Rule #864: 'l$1$9<-$8$7' accepted
+0:00:00:00 - Rule #865: 'l$1$9<-$8$8' accepted
+0:00:00:00 - Rule #866: 'l$1$9<-$8$9' accepted
+0:00:00:00 - Rule #867: 'l$1$9<-$9$0' accepted
+0:00:00:00 - Rule #868: 'l$1$9<-$9$1' accepted
+0:00:00:00 - Rule #869: 'l$1$9<-$9$2' accepted
+0:00:00:00 - Rule #870: 'l$1$9<-$9$3' accepted
+0:00:00:00 - Rule #871: 'l$1$9<-$9$4' accepted
+0:00:00:00 - Rule #872: 'l$1$9<-$9$5' accepted
+0:00:00:00 - Rule #873: 'l$1$9<-$9$6' accepted
+0:00:00:00 - Rule #874: 'l$1$9<-$9$7' accepted
+0:00:00:00 - Rule #875: 'l$1$9<-$9$8' accepted
+0:00:00:00 - Rule #876: 'l$1$9<-$9$9' accepted
+0:00:00:00 - Rule #877: 'l$2$0<-$0$0' accepted
+0:00:00:00 - Rule #878: 'l$2$0<-$0$1' accepted
+0:00:00:00 - Rule #879: 'l$2$0<-$0$2' accepted
+0:00:00:00 - Rule #880: 'l$2$0<-$0$3' accepted
+0:00:00:00 - Rule #881: 'l$2$0<-$0$4' accepted
+0:00:00:00 - Rule #882: 'l$2$0<-$0$5' accepted
+0:00:00:00 - Rule #883: 'l$2$0<-$0$6' accepted
+0:00:00:00 - Rule #884: 'l$2$0<-$0$7' accepted
+0:00:00:00 - Rule #885: 'l$2$0<-$0$8' accepted
+0:00:00:00 - Rule #886: 'l$2$0<-$0$9' accepted
+0:00:00:00 - Rule #887: 'l$1$9<-$6$9' accepted
+0:00:00:00 - Rule #888: 'l$1$9<-$6$8' accepted
+0:00:00:00 - Rule #889: 'l$1$9<-$6$7' accepted
+0:00:00:00 - Rule #890: 'l$1$9<-$6$6' accepted
+0:00:00:00 - Rule #891: 'l$1$9<-$6$5' accepted
+0:00:00:00 - Rule #892: 'l$1$9<-$6$4' accepted
+0:00:00:00 - Rule #893: 'l$1$9<-$6$3' accepted
+0:00:00:00 - Rule #894: 'l$1$9<-$6$2' accepted
+0:00:00:00 - Rule #895: 'l$1$9<-$6$1' accepted
+0:00:00:00 - Rule #896: 'l$1$9<-$6$0' accepted
+0:00:00:00 - Rule #897: 'l$1$9<-$5$9' accepted
+0:00:00:00 - Rule #898: 'l$1$9<-$5$8' accepted
+0:00:00:00 - Rule #899: 'l$1$9<-$5$7' accepted
+0:00:00:00 - Rule #900: 'l$1$9<-$5$6' accepted
+0:00:00:00 - Rule #901: 'l$1$9<-$5$5' accepted
+0:00:00:00 - Rule #902: 'l$1$9<-$5$4' accepted
+0:00:00:00 - Rule #903: 'l$1$9<-$5$3' accepted
+0:00:00:00 - Rule #904: 'l$1$9<-$5$2' accepted
+0:00:00:00 - Rule #905: 'l$1$9<-$5$1' accepted
+0:00:00:00 - Rule #906: 'l$1$9<-$5$0' accepted
+0:00:00:00 - Rule #907: 'l$1$9<-$4$9' accepted
+0:00:00:00 - Rule #908: 'l$1$9<-$4$8' accepted
+0:00:00:00 - Rule #909: 'l$1$9<-$4$7' accepted
+0:00:00:00 - Rule #910: 'l$1$9<-$4$6' accepted
+0:00:00:00 - Rule #911: 'l$1$9<-$4$5' accepted
+0:00:00:00 - Rule #912: 'l$1$9<-$4$4' accepted
+0:00:00:00 - Rule #913: 'l$1$9<-$4$3' accepted
+0:00:00:00 - Rule #914: 'l$1$9<-$4$2' accepted
+0:00:00:00 - Rule #915: 'l$1$9<-$4$1' accepted
+0:00:00:00 - Rule #916: 'l$1$9<-$4$0' accepted
+0:00:00:00 - Rule #917: 'l$1$9<-$3$9' accepted
+0:00:00:00 - Rule #918: 'l$1$9<-$3$8' accepted
+0:00:00:00 - Rule #919: 'l$1$9<-$3$7' accepted
+0:00:00:00 - Rule #920: 'l$1$9<-$3$6' accepted
+0:00:00:00 - Rule #921: 'l$1$9<-$3$5' accepted
+0:00:00:00 - Rule #922: 'l$1$9<-$3$4' accepted
+0:00:00:00 - Rule #923: 'l$1$9<-$3$3' accepted
+0:00:00:00 - Rule #924: 'l$1$9<-$3$2' accepted
+0:00:00:00 - Rule #925: 'l$1$9<-$3$1' accepted
+0:00:00:00 - Rule #926: 'l$1$9<-$3$0' accepted
+0:00:00:00 - Rule #927: 'l$1$9<-$2$9' accepted
+0:00:00:00 - Rule #928: 'l$1$9<-$2$8' accepted
+0:00:00:00 - Rule #929: 'l$1$9<-$2$7' accepted
+0:00:00:00 - Rule #930: 'l$1$9<-$2$6' accepted
+0:00:00:00 - Rule #931: 'l$1$9<-$2$5' accepted
+0:00:00:00 - Rule #932: 'l$1$9<-$2$4' accepted
+0:00:00:00 - Rule #933: 'l$1$9<-$2$3' accepted
+0:00:00:00 - Rule #934: 'l$1$9<-$2$2' accepted
+0:00:00:00 - Rule #935: 'l$1$9<-$2$1' accepted
+0:00:00:00 - Rule #936: 'l$1$9<-$2$0' accepted
+0:00:00:00 - Rule #937: 'l$1$9<-$1$9' accepted
+0:00:00:00 - Rule #938: 'l$1$9<-$1$8' accepted
+0:00:00:00 - Rule #939: 'l$1$9<-$1$7' accepted
+0:00:00:00 - Rule #940: 'l$1$9<-$1$6' accepted
+0:00:00:00 - Rule #941: 'l$1$9<-$1$5' accepted
+0:00:00:00 - Rule #942: 'l$1$9<-$1$4' accepted
+0:00:00:00 - Rule #943: 'l$1$9<-$1$3' accepted
+0:00:00:00 - Rule #944: 'l$1$9<-$1$2' accepted
+0:00:00:00 - Rule #945: 'l$1$9<-$1$1' accepted
+0:00:00:00 - Rule #946: 'l$1$9<-$1$0' accepted
+0:00:00:00 - Rule #947: 'l$1$9<-$0$9' accepted
+0:00:00:00 - Rule #948: 'l$1$9<-$0$8' accepted
+0:00:00:00 - Rule #949: 'l$1$9<-$0$7' accepted
+0:00:00:00 - Rule #950: 'l$1$9<-$0$6' accepted
+0:00:00:00 - Rule #951: 'l$1$9<-$0$5' accepted
+0:00:00:00 - Rule #952: 'l$1$9<-$0$4' accepted
+0:00:00:00 - Rule #953: 'l$1$9<-$0$3' accepted
+0:00:00:00 - Rule #954: 'l$1$9<-$0$2' accepted
+0:00:00:00 - Rule #955: 'l$1$9<-$0$1' accepted
+0:00:00:00 - Rule #956: 'l$1$9<-$0$0' accepted
+0:00:00:00 - Processing the remaining buffered candidate passwords
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: password.lst
+0:00:00:00 - 57 preprocessed word mangling rules
+0:00:00:00 - Rule #1: ':' accepted as ''
+0:00:00:00 + Cracked test2
+0:00:00:00 + Cracked test4
+0:00:00:00 - Rule #2: '-c >3!?XlQ' accepted as '>3!?XlQ'
+0:00:00:00 - Rule #3: '-c >2(?a!?XcQ' accepted as '>2(?a!?XcQ'
+0:00:00:00 - Rule #4: '<*>2!?Alp' accepted
+0:00:00:00 - Rule #5: '<*>2!?Al$1' accepted
+0:00:00:00 - Rule #6: '-c <*>2!?Ac$1' accepted as '<*>2!?Ac$1'
+0:00:00:00 - Rule #7: '<7>1!?Ald' accepted
+0:00:00:00 - Rule #8: '>3!?AlMrQ' accepted
+0:00:00:00 - Rule #9: '>2!?Al^1' accepted
+0:00:00:00 - Rule #10: '-c >2!?XuQ' accepted as '>2!?XuQ'
+0:00:00:00 - Rule #11: '<*>2!?Al$2' accepted
+0:00:00:00 - Rule #12: '<*>2!?Al$!' accepted
+0:00:00:00 - Rule #13: '<*>2!?Al$3' accepted
+0:00:00:00 - Rule #14: '<*>2!?Al$7' accepted
+0:00:00:00 - Rule #15: '<*>2!?Al$9' accepted
+0:00:00:00 - Rule #16: '<*>2!?Al$5' accepted
+0:00:00:00 - Rule #17: '<*>2!?Al$4' accepted
+0:00:00:00 - Rule #18: '<*>2!?Al$8' accepted
+0:00:00:00 - Rule #19: '<*>2!?Al$6' accepted
+0:00:00:00 - Rule #20: '<*>2!?Al$0' accepted
+0:00:00:00 - Rule #21: '<*>2!?Al$.' accepted
+0:00:00:00 - Rule #22: '<*>2!?Al$?' accepted
+0:00:00:00 - Rule #23: '/?p@?p>3l' accepted
+0:00:00:00 - Rule #24: '/?v@?v>3l' accepted
+0:00:00:00 - Rule #25: '/?w@?w>3l' accepted
+0:00:00:00 - Rule #26: '-c <7>1!?Acd' accepted as '<7>1!?Acd'
+0:00:00:00 - Rule #27: '-c <+>2!?Acr' accepted as '<+>2!?Acr'
+0:00:00:00 - Rule #28: '-c >2!?AMrQc' accepted as '>2!?AMrQc'
+0:00:00:00 - Rule #29: '<7>1!?AlMrQrf' accepted
+0:00:00:00 - Rule #30: '-c <+>2!?AMrQcr' accepted as '<+>2!?AMrQcr'
+0:00:00:00 - Rule #31: '>2!?Al^2' accepted
+0:00:00:00 - Rule #32: '>2!?Al^4' accepted
+0:00:00:00 - Rule #33: '-c <*>2!?Ac$2' accepted as '<*>2!?Ac$2'
+0:00:00:00 - Rule #34: '-c <*>2!?Ac$!' accepted as '<*>2!?Ac$!'
+0:00:00:00 - Rule #35: '-c <*>2!?Ac$3' accepted as '<*>2!?Ac$3'
+0:00:00:00 - Rule #36: '-c <*>2!?Ac$9' accepted as '<*>2!?Ac$9'
+0:00:00:00 - Rule #37: '-c <*>2!?Ac$5' accepted as '<*>2!?Ac$5'
+0:00:00:00 - Rule #38: '-c <*>2!?Ac$7' accepted as '<*>2!?Ac$7'
+0:00:00:00 - Rule #39: '-c <*>2!?Ac$4' accepted as '<*>2!?Ac$4'
+0:00:00:00 - Rule #40: '-c <*>2!?Ac$6' accepted as '<*>2!?Ac$6'
+0:00:00:00 - Rule #41: '-c <*>2!?Ac$8' accepted as '<*>2!?Ac$8'
+0:00:00:00 - Rule #42: '-c <*>2!?Ac$.' accepted as '<*>2!?Ac$.'
+0:00:00:00 - Rule #43: '-c <*>2!?Ac$?' accepted as '<*>2!?Ac$?'
+0:00:00:00 - Rule #44: '-c <*>2!?Ac$0' accepted as '<*>2!?Ac$0'
+0:00:00:00 - Rule #45: '>2!?Al^3' accepted
+0:00:00:00 - Rule #46: '>2!?Al^7' accepted
+0:00:00:00 - Rule #47: '>2!?Al^9' accepted
+0:00:00:00 - Rule #48: '>2!?Al^5' accepted
+0:00:00:00 - Rule #49: '>2!?Al^6' accepted
+0:00:00:00 - Rule #50: '>2!?Al^8' accepted
+0:00:00:00 - Rule #51: '-c <*>2!?Acp' accepted as '<*>2!?Acp'
+0:00:00:00 - Rule #52: '<*>2!?AlP' accepted
+0:00:00:00 - Rule #53: '<*>2!?AlI' accepted
+0:00:00:00 - Rule #54: '-c <*>2!?AcP' accepted as '<*>2!?AcP'
+0:00:00:00 - Rule #55: '-c <*>2!?AcI' accepted as '<*>2!?AcI'
+0:00:00:00 - Rule #56: '-s x**' rejected
+0:00:00:00 - Rule #57: '-s-c x**MlQ' rejected
+0:00:00:00 Proceeding with "incremental" mode: All
+0:00:00:00 - Lengths 0 to 8, up to 95 different characters
+0:00:00:00 - Switching to length 4
+0:00:00:00 - Expanding tables for length 4 to character count 1
+0:00:00:00 - Trying length 4, fixed @1, character count 1
+0:00:00:00 - Switching to length 5
+0:00:00:00 - Expanding tables for length 5 to character count 1
+0:00:00:00 - Trying length 5, fixed @1, character count 1
+0:00:00:00 - Expanding tables for length 5 to character count 2
+0:00:00:00 - Trying length 5, fixed @2, character count 2
+0:00:00:00 - Switching to length 6
+0:00:00:00 - Expanding tables for length 6 to character count 1
+0:00:00:00 - Trying length 6, fixed @1, character count 1
+0:00:00:00 - Expanding tables for length 6 to character count 2
+0:00:00:00 - Trying length 6, fixed @1, character count 2
+0:00:00:00 - Trying length 6, fixed @2, character count 2
+0:00:00:00 - Trying length 6, fixed @3, character count 2
+0:00:00:00 - Trying length 6, fixed @4, character count 2
+0:00:00:00 - Trying length 6, fixed @5, character count 2
+0:00:00:00 - Trying length 6, fixed @6, character count 2
+0:00:00:00 - Switching to length 7
+0:00:00:00 - Expanding tables for length 7 to character count 1
+0:00:00:00 - Trying length 7, fixed @1, character count 1
+0:00:00:00 - Switching to length 8
+0:00:00:00 - Expanding tables for length 8 to character count 1
+0:00:00:00 - Trying length 8, fixed @1, character count 1
+0:00:00:00 - Switching to length 3
+0:00:00:00 - Expanding tables for length 3 to character count 1
+0:00:00:00 - Trying length 3, fixed @1, character count 1
+0:00:00:00 - Switching to length 4
+0:00:00:00 - Expanding tables for length 4 to character count 2
+0:00:00:00 - Trying length 4, fixed @2, character count 2
+0:00:00:00 - Switching to length 5
+0:00:00:00 - Expanding tables for length 5 to character count 2
+0:00:00:00 - Trying length 5, fixed @1, character count 2
+0:00:00:00 - Trying length 5, fixed @3, character count 2
+0:00:00:00 - Trying length 5, fixed @4, character count 2
+0:00:00:00 - Trying length 5, fixed @5, character count 2
+0:00:00:00 - Switching to length 7
+0:00:00:00 - Expanding tables for length 7 to character count 2
+0:00:00:00 - Trying length 7, fixed @2, character count 2
+0:00:00:00 - Trying length 7, fixed @3, character count 2
+0:00:00:00 - Trying length 7, fixed @5, character count 2
+0:00:00:00 - Switching to length 4
+0:00:00:00 - Expanding tables for length 4 to character count 2
+0:00:00:00 - Trying length 4, fixed @1, character count 2
+0:00:00:00 - Trying length 4, fixed @3, character count 2
+0:00:00:00 - Trying length 4, fixed @4, character count 2
+0:00:00:00 - Switching to length 7
+0:00:00:00 - Expanding tables for length 7 to character count 2
+0:00:00:00 - Trying length 7, fixed @1, character count 2
+0:00:00:00 - Trying length 7, fixed @4, character count 2
+0:00:00:00 - Trying length 7, fixed @6, character count 2
+0:00:00:00 - Trying length 7, fixed @7, character count 2
+0:00:00:00 - Switching to length 8
+0:00:00:00 - Expanding tables for length 8 to character count 2
+0:00:00:00 - Trying length 8, fixed @2, character count 2
+0:00:00:00 - Switching to length 3
+0:00:00:00 - Expanding tables for length 3 to character count 2
+0:00:00:00 - Trying length 3, fixed @1, character count 2
+0:00:00:00 - Trying length 3, fixed @2, character count 2
+0:00:00:00 - Switching to length 8
+0:00:00:00 - Expanding tables for length 8 to character count 2
+0:00:00:00 - Trying length 8, fixed @1, character count 2
+0:00:00:00 - Trying length 8, fixed @3, character count 2
+0:00:00:00 - Trying length 8, fixed @6, character count 2
+0:00:00:00 - Trying length 8, fixed @7, character count 2
+0:00:00:00 - Trying length 8, fixed @8, character count 2
+0:00:00:00 - Switching to length 3
+0:00:00:00 - Expanding tables for length 3 to character count 2
+0:00:00:00 - Trying length 3, fixed @3, character count 2
+0:00:00:00 - Switching to length 8
+0:00:00:00 - Expanding tables for length 8 to character count 2
+0:00:00:00 - Trying length 8, fixed @4, character count 2
+0:00:00:00 - Trying length 8, fixed @5, character count 2
+0:00:00:00 - Switching to length 6
+0:00:00:00 - Expanding tables for length 6 to character count 3
+0:00:00:00 - Trying length 6, fixed @2, character count 3
+0:00:00:00 - Switching to length 5
+0:00:00:00 - Expanding tables for length 5 to character count 3
+0:00:00:00 - Trying length 5, fixed @2, character count 3
+0:00:00:00 - Switching to length 4
+0:00:00:00 - Expanding tables for length 4 to character count 3
+0:00:00:00 - Trying length 4, fixed @2, character count 3
+0:00:00:00 - Switching to length 6
+0:00:00:00 - Expanding tables for length 6 to character count 3
+0:00:00:00 - Trying length 6, fixed @3, character count 3
+0:00:00:00 - Trying length 6, fixed @5, character count 3
+0:00:00:00 - Switching to length 3
+0:00:00:00 - Expanding tables for length 3 to character count 3
+0:00:00:00 - Trying length 3, fixed @2, character count 3
+0:00:00:00 - Switching to length 5
+0:00:00:00 - Expanding tables for length 5 to character count 3
+0:00:00:00 - Trying length 5, fixed @5, character count 3
+0:00:00:00 - Switching to length 6
+0:00:00:00 - Expanding tables for length 6 to character count 3
+0:00:00:00 - Trying length 6, fixed @4, character count 3
+0:00:00:00 - Trying length 6, fixed @6, character count 3
+0:00:00:00 - Switching to length 5
+0:00:00:00 - Expanding tables for length 5 to character count 3
+0:00:00:00 - Trying length 5, fixed @3, character count 3
+0:00:00:00 - Trying length 5, fixed @4, character count 3
+0:00:00:00 - Switching to length 2
+0:00:00:00 - Expanding tables for length 2 to character count 1
+0:00:00:00 - Trying length 2, fixed @1, character count 1
+0:00:00:00 - Switching to length 3
+0:00:00:00 - Expanding tables for length 3 to character count 3
+0:00:00:00 - Trying length 3, fixed @1, character count 3
+0:00:00:00 - Switching to length 4
+0:00:00:00 - Expanding tables for length 4 to character count 3
+0:00:00:00 - Trying length 4, fixed @4, character count 3
+0:00:00:00 - Switching to length 6
+0:00:00:00 - Expanding tables for length 6 to character count 3
+0:00:00:00 - Trying length 6, fixed @1, character count 3
+0:00:00:00 - Switching to length 3
+0:00:00:00 - Expanding tables for length 3 to character count 3
+0:00:00:00 - Trying length 3, fixed @3, character count 3
+0:00:00:00 - Switching to length 4
+0:00:00:00 - Expanding tables for length 4 to character count 3
+0:00:00:00 - Trying length 4, fixed @1, character count 3
+0:00:00:00 - Trying length 4, fixed @3, character count 3
+0:00:00:00 - Switching to length 5
+0:00:00:00 - Expanding tables for length 5 to character count 3
+0:00:00:00 - Trying length 5, fixed @1, character count 3
+0:00:00:00 - Switching to length 2
+0:00:00:00 - Expanding tables for length 2 to character count 2
+0:00:00:00 - Trying length 2, fixed @1, character count 2
+0:00:00:00 - Switching to length 7
+0:00:00:00 - Expanding tables for length 7 to character count 3
+0:00:00:00 - Trying length 7, fixed @2, character count 3
+0:00:00:00 - Switching to length 3
+0:00:00:00 - Expanding tables for length 3 to character count 4
+0:00:00:00 - Trying length 3, fixed @1, character count 4
+0:00:00:00 - Trying length 3, fixed @2, character count 4
+0:00:00:00 - Trying length 3, fixed @3, character count 4
+0:00:00:00 - Switching to length 4
+0:00:00:00 - Expanding tables for length 4 to character count 4
+0:00:00:00 - Trying length 4, fixed @2, character count 4
+0:00:00:00 - Switching to length 1
+0:00:00:00 - Expanding tables for length 1 to character count 1
+0:00:00:00 - Trying length 1, fixed @1, character count 1
+0:00:00:00 - Switching to length 5
+0:00:00:00 - Expanding tables for length 5 to character count 4
+0:00:00:00 - Trying length 5, fixed @2, character count 4
+0:00:00:00 - Switching to length 7
+0:00:00:00 - Expanding tables for length 7 to character count 3
+0:00:00:00 - Trying length 7, fixed @5, character count 3
+0:00:00:00 - Switching to length 1
+0:00:00:00 - Expanding tables for length 1 to character count 2
+0:00:00:00 - Trying length 1, fixed @1, character count 2
+0:00:00:00 - Switching to length 2
+0:00:00:00 - Expanding tables for length 2 to character count 2
+0:00:00:00 - Trying length 2, fixed @2, character count 2
+0:00:00:00 - Switching to length 7
+0:00:00:00 - Expanding tables for length 7 to character count 3
+0:00:00:00 - Trying length 7, fixed @3, character count 3
+0:00:00:00 - Switching to length 6
+0:00:00:00 - Expanding tables for length 6 to character count 4
+0:00:00:00 - Trying length 6, fixed @2, character count 4
+0:00:00:00 - Switching to length 7
+0:00:00:00 - Expanding tables for length 7 to character count 3
+0:00:00:00 - Trying length 7, fixed @6, character count 3
+0:00:00:00 - Switching to length 4
+0:00:00:00 - Expanding tables for length 4 to character count 4
+0:00:00:00 - Trying length 4, fixed @3, character count 4
+0:00:00:00 - Trying length 4, fixed @4, character count 4
+0:00:00:00 - Switching to length 3
+0:00:00:00 - Expanding tables for length 3 to character count 5
+0:00:00:00 - Trying length 3, fixed @1, character count 5
+0:00:00:00 - Switching to length 4
+0:00:00:00 - Expanding tables for length 4 to character count 4
+0:00:00:00 - Trying length 4, fixed @1, character count 4
+0:00:00:00 - Switching to length 7
+0:00:00:00 - Expanding tables for length 7 to character count 3
+0:00:00:00 - Trying length 7, fixed @7, character count 3
+0:00:00:00 - Switching to length 5
+0:00:00:00 - Expanding tables for length 5 to character count 4
+0:00:00:00 - Trying length 5, fixed @5, character count 4
+0:00:00:00 - Switching to length 1
+0:00:00:00 - Expanding tables for length 1 to character count 3
+0:00:00:00 - Trying length 1, fixed @1, character count 3
+0:00:00:00 - Switching to length 2
+0:00:00:00 - Expanding tables for length 2 to character count 3
+0:00:00:00 - Trying length 2, fixed @1, character count 3
+0:00:00:00 - Switching to length 3
+0:00:00:00 - Expanding tables for length 3 to character count 5
+0:00:00:00 - Trying length 3, fixed @3, character count 5
+0:00:00:00 - Switching to length 7
+0:00:00:00 - Expanding tables for length 7 to character count 3
+0:00:00:00 - Trying length 7, fixed @4, character count 3
+0:00:00:00 - Switching to length 3
+0:00:00:00 - Expanding tables for length 3 to character count 5
+0:00:00:00 - Trying length 3, fixed @2, character count 5
+0:00:00:00 - Switching to length 7
+0:00:00:00 - Expanding tables for length 7 to character count 3
+0:00:00:00 - Trying length 7, fixed @1, character count 3
+0:00:00:00 - Switching to length 5
+0:00:00:00 - Expanding tables for length 5 to character count 4
+0:00:00:00 - Trying length 5, fixed @3, character count 4
+0:00:00:00 - Switching to length 6
+0:00:00:00 - Expanding tables for length 6 to character count 4
+0:00:00:00 - Trying length 6, fixed @5, character count 4
+0:00:00:00 - Trying length 6, fixed @6, character count 4
+0:00:00:00 - Switching to length 5
+0:00:00:00 - Expanding tables for length 5 to character count 4
+0:00:00:00 - Trying length 5, fixed @4, character count 4
+0:00:00:00 - Switching to length 6
+0:00:00:00 - Expanding tables for length 6 to character count 4
+0:00:00:00 - Trying length 6, fixed @3, character count 4
+0:00:00:00 - Trying length 6, fixed @4, character count 4
+0:00:00:00 - Switching to length 5
+0:00:00:00 - Expanding tables for length 5 to character count 4
+0:00:00:00 - Trying length 5, fixed @1, character count 4
+0:00:00:00 - Switching to length 2
+0:00:00:00 - Expanding tables for length 2 to character count 3
+0:00:00:00 - Trying length 2, fixed @2, character count 3
+0:00:00:00 - Switching to length 3
+0:00:00:00 - Expanding tables for length 3 to character count 6
+0:00:00:00 - Trying length 3, fixed @1, character count 6
+0:00:00:00 - Switching to length 6
+0:00:00:00 - Expanding tables for length 6 to character count 4
+0:00:00:00 - Trying length 6, fixed @1, character count 4
+0:00:00:00 - Switching to length 1
+0:00:00:00 - Expanding tables for length 1 to character count 4
+0:00:00:00 - Trying length 1, fixed @1, character count 4
+0:00:00:00 - Expanding tables for length 1 to character count 5
+0:00:00:00 - Trying length 1, fixed @1, character count 5
+0:00:00:00 - Expanding tables for length 1 to character count 6
+0:00:00:00 - Trying length 1, fixed @1, character count 6
+0:00:00:00 - Expanding tables for length 1 to character count 7
+0:00:00:00 - Trying length 1, fixed @1, character count 7
+0:00:00:00 - Expanding tables for length 1 to character count 8
+0:00:00:00 - Trying length 1, fixed @1, character count 8
+0:00:00:00 - Switching to length 3
+0:00:00:00 - Expanding tables for length 3 to character count 6
+0:00:00:00 - Trying length 3, fixed @3, character count 6
+0:00:00:00 - Switching to length 2
+0:00:00:00 - Expanding tables for length 2 to character count 4
+0:00:00:00 - Trying length 2, fixed @1, character count 4
+0:00:00:00 - Switching to length 3
+0:00:00:00 - Expanding tables for length 3 to character count 6
+0:00:00:00 - Trying length 3, fixed @2, character count 6
+0:00:00:00 - Switching to length 8
+0:00:00:00 - Expanding tables for length 8 to character count 3
+0:00:00:00 - Trying length 8, fixed @2, character count 3
+0:00:00:00 - Switching to length 4
+0:00:00:00 - Expanding tables for length 4 to character count 5
+0:00:00:00 - Trying length 4, fixed @2, character count 5
+0:00:00:00 - Switching to length 3
+0:00:00:00 - Expanding tables for length 3 to character count 7
+0:00:00:00 - Trying length 3, fixed @1, character count 7
+0:00:00:00 - Switching to length 4
+0:00:00:00 - Expanding tables for length 4 to character count 5
+0:00:00:00 - Trying length 4, fixed @3, character count 5
+0:00:00:00 - Trying length 4, fixed @4, character count 5
+0:00:00:00 - Trying length 4, fixed @1, character count 5
+0:00:00:00 - Switching to length 1
+0:00:00:00 - Expanding tables for length 1 to character count 9
+0:00:00:00 - Trying length 1, fixed @1, character count 9
+0:00:00:00 - Expanding tables for length 1 to character count 10
+0:00:00:00 - Trying length 1, fixed @1, character count 10
+0:00:00:00 - Expanding tables for length 1 to character count 11
+0:00:00:00 - Trying length 1, fixed @1, character count 11
+0:00:00:00 - Switching to length 2
+0:00:00:00 - Expanding tables for length 2 to character count 5
+0:00:00:00 - Trying length 2, fixed @1, character count 5
+0:00:00:00 - Trying length 2, fixed @2, character count 4
+0:00:00:00 - Switching to length 8
+0:00:00:00 - Expanding tables for length 8 to character count 3
+0:00:00:00 - Trying length 8, fixed @6, character count 3
+0:00:00:00 - Switching to length 3
+0:00:00:00 - Expanding tables for length 3 to character count 7
+0:00:00:00 - Trying length 3, fixed @3, character count 7
+0:00:00:00 - Trying length 3, fixed @2, character count 7
+0:00:00:00 - Switching to length 8
+0:00:00:00 - Expanding tables for length 8 to character count 3
+0:00:00:00 - Trying length 8, fixed @3, character count 3
+0:00:00:00 - Switching to length 2
+0:00:00:00 - Expanding tables for length 2 to character count 6
+0:00:00:00 - Trying length 2, fixed @1, character count 6
+0:00:00:00 - Switching to length 3
+0:00:00:00 - Expanding tables for length 3 to character count 8
+0:00:00:00 - Trying length 3, fixed @1, character count 8
+0:00:00:00 - Switching to length 8
+0:00:00:01 - Expanding tables for length 8 to character count 3
+0:00:00:01 - Trying length 8, fixed @5, character count 3
+0:00:00:01 - Switching to length 5
+0:00:00:01 - Expanding tables for length 5 to character count 5
+0:00:00:01 - Trying length 5, fixed @5, character count 5
+0:00:00:01 - Switching to length 8
+0:00:00:01 - Expanding tables for length 8 to character count 3
+0:00:00:01 - Trying length 8, fixed @4, character count 3
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 5
+0:00:00:01 - Trying length 2, fixed @2, character count 5
+0:00:00:01 - Switching to length 5
+0:00:00:01 - Expanding tables for length 5 to character count 5
+0:00:00:01 - Trying length 5, fixed @2, character count 5
+0:00:00:01 - Switching to length 8
+0:00:00:01 - Expanding tables for length 8 to character count 3
+0:00:00:01 - Trying length 8, fixed @7, character count 3
+0:00:00:01 - Trying length 8, fixed @8, character count 3
+0:00:00:01 - Trying length 8, fixed @1, character count 3
+0:00:00:01 - Switching to length 5
+0:00:00:01 - Expanding tables for length 5 to character count 5
+0:00:00:01 - Trying length 5, fixed @3, character count 5
+0:00:00:01 - Switching to length 1
+0:00:00:01 - Expanding tables for length 1 to character count 12
+0:00:00:01 - Trying length 1, fixed @1, character count 12
+0:00:00:01 - Expanding tables for length 1 to character count 13
+0:00:00:01 - Trying length 1, fixed @1, character count 13
+0:00:00:01 - Expanding tables for length 1 to character count 14
+0:00:00:01 - Trying length 1, fixed @1, character count 14
+0:00:00:01 - Expanding tables for length 1 to character count 15
+0:00:00:01 - Trying length 1, fixed @1, character count 15
+0:00:00:01 - Expanding tables for length 1 to character count 16
+0:00:00:01 - Trying length 1, fixed @1, character count 16
+0:00:00:01 - Expanding tables for length 1 to character count 17
+0:00:00:01 - Trying length 1, fixed @1, character count 17
+0:00:00:01 - Expanding tables for length 1 to character count 18
+0:00:00:01 - Trying length 1, fixed @1, character count 18
+0:00:00:01 - Expanding tables for length 1 to character count 19
+0:00:00:01 - Trying length 1, fixed @1, character count 19
+0:00:00:01 - Expanding tables for length 1 to character count 20
+0:00:00:01 - Trying length 1, fixed @1, character count 20
+0:00:00:01 - Expanding tables for length 1 to character count 21
+0:00:00:01 - Trying length 1, fixed @1, character count 21
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 8
+0:00:00:01 - Trying length 3, fixed @3, character count 8
+0:00:00:01 - Switching to length 5
+0:00:00:01 - Expanding tables for length 5 to character count 5
+0:00:00:01 - Trying length 5, fixed @4, character count 5
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 7
+0:00:00:01 - Trying length 2, fixed @1, character count 7
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 8
+0:00:00:01 - Trying length 3, fixed @2, character count 8
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 6
+0:00:00:01 - Trying length 2, fixed @2, character count 6
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 6
+0:00:00:01 - Trying length 4, fixed @2, character count 6
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 9
+0:00:00:01 - Trying length 3, fixed @1, character count 9
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 6
+0:00:00:01 - Trying length 4, fixed @4, character count 6
+0:00:00:01 - Trying length 4, fixed @3, character count 6
+0:00:00:01 - Switching to length 5
+0:00:00:01 - Expanding tables for length 5 to character count 5
+0:00:00:01 - Trying length 5, fixed @1, character count 5
+0:00:00:01 - Switching to length 7
+0:00:00:01 - Expanding tables for length 7 to character count 4
+0:00:00:01 - Trying length 7, fixed @2, character count 4
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 8
+0:00:00:01 - Trying length 2, fixed @1, character count 8
+0:00:00:01 - Switching to length 6
+0:00:00:01 - Expanding tables for length 6 to character count 5
+0:00:00:01 - Trying length 6, fixed @2, character count 5
+0:00:00:01 - Trying length 6, fixed @6, character count 5
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 6
+0:00:00:01 - Trying length 4, fixed @1, character count 6
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 9
+0:00:00:01 - Trying length 3, fixed @3, character count 9
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 7
+0:00:00:01 - Trying length 2, fixed @2, character count 7
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 9
+0:00:00:01 - Trying length 3, fixed @2, character count 9
+0:00:00:01 - Switching to length 6
+0:00:00:01 - Expanding tables for length 6 to character count 5
+0:00:00:01 - Trying length 6, fixed @3, character count 5
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 10
+0:00:00:01 - Trying length 3, fixed @1, character count 10
+0:00:00:01 - Switching to length 6
+0:00:00:01 - Expanding tables for length 6 to character count 5
+0:00:00:01 - Trying length 6, fixed @4, character count 5
+0:00:00:01 - Trying length 6, fixed @5, character count 5
+0:00:00:01 - Trying length 6, fixed @1, character count 5
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 8
+0:00:00:01 - Trying length 2, fixed @2, character count 8
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 10
+0:00:00:01 - Trying length 3, fixed @3, character count 10
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 9
+0:00:00:01 - Trying length 2, fixed @1, character count 9
+0:00:00:01 - Trying length 2, fixed @2, character count 9
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 7
+0:00:00:01 - Trying length 4, fixed @2, character count 7
+0:00:00:01 - Trying length 4, fixed @4, character count 7
+0:00:00:01 - Switching to length 1
+0:00:00:01 - Expanding tables for length 1 to character count 22
+0:00:00:01 - Trying length 1, fixed @1, character count 22
+0:00:00:01 - Expanding tables for length 1 to character count 23
+0:00:00:01 - Trying length 1, fixed @1, character count 23
+0:00:00:01 - Expanding tables for length 1 to character count 24
+0:00:00:01 - Trying length 1, fixed @1, character count 24
+0:00:00:01 - Expanding tables for length 1 to character count 25
+0:00:00:01 - Trying length 1, fixed @1, character count 25
+0:00:00:01 - Expanding tables for length 1 to character count 26
+0:00:00:01 - Trying length 1, fixed @1, character count 26
+0:00:00:01 - Expanding tables for length 1 to character count 27
+0:00:00:01 - Trying length 1, fixed @1, character count 27
+0:00:00:01 - Expanding tables for length 1 to character count 28
+0:00:00:01 - Trying length 1, fixed @1, character count 28
+0:00:00:01 - Expanding tables for length 1 to character count 29
+0:00:00:01 - Trying length 1, fixed @1, character count 29
+0:00:00:01 - Expanding tables for length 1 to character count 30
+0:00:00:01 - Trying length 1, fixed @1, character count 30
+0:00:00:01 - Expanding tables for length 1 to character count 31
+0:00:00:01 - Trying length 1, fixed @1, character count 31
+0:00:00:01 - Expanding tables for length 1 to character count 32
+0:00:00:01 - Trying length 1, fixed @1, character count 32
+0:00:00:01 - Expanding tables for length 1 to character count 33
+0:00:00:01 - Trying length 1, fixed @1, character count 33
+0:00:00:01 - Expanding tables for length 1 to character count 34
+0:00:00:01 - Trying length 1, fixed @1, character count 34
+0:00:00:01 - Expanding tables for length 1 to character count 35
+0:00:00:01 - Trying length 1, fixed @1, character count 35
+0:00:00:01 - Expanding tables for length 1 to character count 36
+0:00:00:01 - Trying length 1, fixed @1, character count 36
+0:00:00:01 - Expanding tables for length 1 to character count 37
+0:00:00:01 - Trying length 1, fixed @1, character count 37
+0:00:00:01 - Expanding tables for length 1 to character count 38
+0:00:00:01 - Trying length 1, fixed @1, character count 38
+0:00:00:01 - Expanding tables for length 1 to character count 39
+0:00:00:01 - Trying length 1, fixed @1, character count 39
+0:00:00:01 - Expanding tables for length 1 to character count 40
+0:00:00:01 - Trying length 1, fixed @1, character count 40
+0:00:00:01 - Expanding tables for length 1 to character count 41
+0:00:00:01 - Trying length 1, fixed @1, character count 41
+0:00:00:01 - Expanding tables for length 1 to character count 42
+0:00:00:01 - Trying length 1, fixed @1, character count 42
+0:00:00:01 - Expanding tables for length 1 to character count 43
+0:00:00:01 - Trying length 1, fixed @1, character count 43
+0:00:00:01 - Expanding tables for length 1 to character count 44
+0:00:00:01 - Trying length 1, fixed @1, character count 44
+0:00:00:01 - Expanding tables for length 1 to character count 45
+0:00:00:01 - Trying length 1, fixed @1, character count 45
+0:00:00:01 - Expanding tables for length 1 to character count 46
+0:00:00:01 - Trying length 1, fixed @1, character count 46
+0:00:00:01 - Expanding tables for length 1 to character count 47
+0:00:00:01 - Trying length 1, fixed @1, character count 47
+0:00:00:01 - Expanding tables for length 1 to character count 48
+0:00:00:01 - Trying length 1, fixed @1, character count 48
+0:00:00:01 - Expanding tables for length 1 to character count 49
+0:00:00:01 - Trying length 1, fixed @1, character count 49
+0:00:00:01 - Expanding tables for length 1 to character count 50
+0:00:00:01 - Trying length 1, fixed @1, character count 50
+0:00:00:01 - Expanding tables for length 1 to character count 51
+0:00:00:01 - Trying length 1, fixed @1, character count 51
+0:00:00:01 - Expanding tables for length 1 to character count 52
+0:00:00:01 - Trying length 1, fixed @1, character count 52
+0:00:00:01 - Expanding tables for length 1 to character count 53
+0:00:00:01 - Trying length 1, fixed @1, character count 53
+0:00:00:01 - Expanding tables for length 1 to character count 54
+0:00:00:01 - Trying length 1, fixed @1, character count 54
+0:00:00:01 - Expanding tables for length 1 to character count 55
+0:00:00:01 - Trying length 1, fixed @1, character count 55
+0:00:00:01 - Expanding tables for length 1 to character count 56
+0:00:00:01 - Trying length 1, fixed @1, character count 56
+0:00:00:01 - Expanding tables for length 1 to character count 57
+0:00:00:01 - Trying length 1, fixed @1, character count 57
+0:00:00:01 - Expanding tables for length 1 to character count 58
+0:00:00:01 - Trying length 1, fixed @1, character count 58
+0:00:00:01 - Expanding tables for length 1 to character count 59
+0:00:00:01 - Trying length 1, fixed @1, character count 59
+0:00:00:01 - Expanding tables for length 1 to character count 60
+0:00:00:01 - Trying length 1, fixed @1, character count 60
+0:00:00:01 - Expanding tables for length 1 to character count 61
+0:00:00:01 - Trying length 1, fixed @1, character count 61
+0:00:00:01 - Expanding tables for length 1 to character count 62
+0:00:00:01 - Trying length 1, fixed @1, character count 62
+0:00:00:01 - Expanding tables for length 1 to character count 63
+0:00:00:01 - Trying length 1, fixed @1, character count 63
+0:00:00:01 - Expanding tables for length 1 to character count 64
+0:00:00:01 - Trying length 1, fixed @1, character count 64
+0:00:00:01 - Expanding tables for length 1 to character count 65
+0:00:00:01 - Trying length 1, fixed @1, character count 65
+0:00:00:01 - Expanding tables for length 1 to character count 66
+0:00:00:01 - Trying length 1, fixed @1, character count 66
+0:00:00:01 - Expanding tables for length 1 to character count 67
+0:00:00:01 - Trying length 1, fixed @1, character count 67
+0:00:00:01 - Expanding tables for length 1 to character count 68
+0:00:00:01 - Trying length 1, fixed @1, character count 68
+0:00:00:01 - Expanding tables for length 1 to character count 69
+0:00:00:01 - Trying length 1, fixed @1, character count 69
+0:00:00:01 - Expanding tables for length 1 to character count 70
+0:00:00:01 - Trying length 1, fixed @1, character count 70
+0:00:00:01 - Expanding tables for length 1 to character count 71
+0:00:00:01 - Trying length 1, fixed @1, character count 71
+0:00:00:01 - Expanding tables for length 1 to character count 72
+0:00:00:01 - Trying length 1, fixed @1, character count 72
+0:00:00:01 - Expanding tables for length 1 to character count 73
+0:00:00:01 - Trying length 1, fixed @1, character count 73
+0:00:00:01 - Expanding tables for length 1 to character count 74
+0:00:00:01 - Trying length 1, fixed @1, character count 74
+0:00:00:01 - Expanding tables for length 1 to character count 75
+0:00:00:01 - Trying length 1, fixed @1, character count 75
+0:00:00:01 - Expanding tables for length 1 to character count 76
+0:00:00:01 - Trying length 1, fixed @1, character count 76
+0:00:00:01 - Expanding tables for length 1 to character count 77
+0:00:00:01 - Trying length 1, fixed @1, character count 77
+0:00:00:01 - Expanding tables for length 1 to character count 78
+0:00:00:01 - Trying length 1, fixed @1, character count 78
+0:00:00:01 - Expanding tables for length 1 to character count 79
+0:00:00:01 - Trying length 1, fixed @1, character count 79
+0:00:00:01 - Expanding tables for length 1 to character count 80
+0:00:00:01 - Trying length 1, fixed @1, character count 80
+0:00:00:01 - Expanding tables for length 1 to character count 81
+0:00:00:01 - Trying length 1, fixed @1, character count 81
+0:00:00:01 - Expanding tables for length 1 to character count 82
+0:00:00:01 - Trying length 1, fixed @1, character count 82
+0:00:00:01 - Expanding tables for length 1 to character count 83
+0:00:00:01 - Trying length 1, fixed @1, character count 83
+0:00:00:01 - Expanding tables for length 1 to character count 84
+0:00:00:01 - Trying length 1, fixed @1, character count 84
+0:00:00:01 - Expanding tables for length 1 to character count 85
+0:00:00:01 - Trying length 1, fixed @1, character count 85
+0:00:00:01 - Expanding tables for length 1 to character count 86
+0:00:00:01 - Trying length 1, fixed @1, character count 86
+0:00:00:01 - Expanding tables for length 1 to character count 87
+0:00:00:01 - Trying length 1, fixed @1, character count 87
+0:00:00:01 - Expanding tables for length 1 to character count 88
+0:00:00:01 - Trying length 1, fixed @1, character count 88
+0:00:00:01 - Expanding tables for length 1 to character count 89
+0:00:00:01 - Trying length 1, fixed @1, character count 89
+0:00:00:01 - Expanding tables for length 1 to character count 90
+0:00:00:01 - Trying length 1, fixed @1, character count 90
+0:00:00:01 - Expanding tables for length 1 to character count 91
+0:00:00:01 - Trying length 1, fixed @1, character count 91
+0:00:00:01 - Expanding tables for length 1 to character count 92
+0:00:00:01 - Trying length 1, fixed @1, character count 92
+0:00:00:01 - Expanding tables for length 1 to character count 93
+0:00:00:01 - Trying length 1, fixed @1, character count 93
+0:00:00:01 - Expanding tables for length 1 to character count 94
+0:00:00:01 - Trying length 1, fixed @1, character count 94
+0:00:00:01 - Expanding tables for length 1 to character count 95
+0:00:00:01 - Trying length 1, fixed @1, character count 95
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 10
+0:00:00:01 - Trying length 3, fixed @2, character count 10
+0:00:00:01 - Expanding tables for length 3 to character count 11
+0:00:00:01 - Trying length 3, fixed @1, character count 11
+0:00:00:01 - Switching to length 7
+0:00:00:01 - Expanding tables for length 7 to character count 4
+0:00:00:01 - Trying length 7, fixed @6, character count 4
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 7
+0:00:00:01 - Trying length 4, fixed @3, character count 7
+0:00:00:01 - Switching to length 7
+0:00:00:01 - Expanding tables for length 7 to character count 4
+0:00:00:01 - Trying length 7, fixed @5, character count 4
+0:00:00:01 - Trying length 7, fixed @7, character count 4
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 10
+0:00:00:01 - Trying length 2, fixed @2, character count 10
+0:00:00:01 - Switching to length 7
+0:00:00:01 - Expanding tables for length 7 to character count 4
+0:00:00:01 - Trying length 7, fixed @3, character count 4
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 11
+0:00:00:01 - Trying length 3, fixed @3, character count 11
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 7
+0:00:00:01 - Trying length 4, fixed @1, character count 7
+0:00:00:01 - Switching to length 5
+0:00:00:01 - Expanding tables for length 5 to character count 6
+0:00:00:01 - Trying length 5, fixed @2, character count 6
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 11
+0:00:00:01 - Trying length 2, fixed @2, character count 11
+0:00:00:01 - Switching to length 5
+0:00:00:01 - Expanding tables for length 5 to character count 6
+0:00:00:01 - Trying length 5, fixed @5, character count 6
+0:00:00:01 - Switching to length 7
+0:00:00:01 - Expanding tables for length 7 to character count 4
+0:00:00:01 - Trying length 7, fixed @4, character count 4
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 10
+0:00:00:01 - Trying length 2, fixed @1, character count 10
+0:00:00:01 - Switching to length 5
+0:00:00:01 - Expanding tables for length 5 to character count 6
+0:00:00:01 - Trying length 5, fixed @3, character count 6
+0:00:00:01 - Switching to length 7
+0:00:00:01 - Expanding tables for length 7 to character count 4
+0:00:00:01 - Trying length 7, fixed @1, character count 4
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 11
+0:00:00:01 - Trying length 3, fixed @2, character count 11
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 11
+0:00:00:01 - Trying length 2, fixed @1, character count 11
+0:00:00:01 - Switching to length 5
+0:00:00:01 - Expanding tables for length 5 to character count 6
+0:00:00:01 - Trying length 5, fixed @4, character count 6
+0:00:00:01 - Trying length 5, fixed @1, character count 6
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 12
+0:00:00:01 - Trying length 3, fixed @1, character count 12
+0:00:00:01 - Trying length 3, fixed @3, character count 12
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 12
+0:00:00:01 - Trying length 2, fixed @1, character count 12
+0:00:00:01 - Trying length 2, fixed @2, character count 12
+0:00:00:01 - Expanding tables for length 2 to character count 13
+0:00:00:01 - Trying length 2, fixed @1, character count 13
+0:00:00:01 - Trying length 2, fixed @2, character count 13
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 8
+0:00:00:01 - Trying length 4, fixed @3, character count 8
+0:00:00:01 - Trying length 4, fixed @4, character count 8
+0:00:00:01 - Trying length 4, fixed @2, character count 8
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 12
+0:00:00:01 - Trying length 3, fixed @2, character count 12
+0:00:00:01 - Expanding tables for length 3 to character count 13
+0:00:00:01 - Trying length 3, fixed @3, character count 13
+0:00:00:01 - Trying length 3, fixed @1, character count 13
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 8
+0:00:00:01 - Trying length 4, fixed @1, character count 8
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 14
+0:00:00:01 - Trying length 2, fixed @1, character count 14
+0:00:00:01 - Trying length 2, fixed @2, character count 14
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 13
+0:00:00:01 - Trying length 3, fixed @2, character count 13
+0:00:00:01 - Switching to length 6
+0:00:00:01 - Expanding tables for length 6 to character count 6
+0:00:00:01 - Trying length 6, fixed @3, character count 6
+0:00:00:01 - Trying length 6, fixed @2, character count 6
+0:00:00:01 - Trying length 6, fixed @6, character count 6
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 15
+0:00:00:01 - Trying length 2, fixed @1, character count 15
+0:00:00:01 - Trying length 2, fixed @2, character count 15
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 14
+0:00:00:01 - Trying length 3, fixed @3, character count 14
+0:00:00:01 - Switching to length 6
+0:00:00:01 - Expanding tables for length 6 to character count 6
+0:00:00:01 - Trying length 6, fixed @4, character count 6
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 14
+0:00:00:01 - Trying length 3, fixed @1, character count 14
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 16
+0:00:00:01 - Trying length 2, fixed @2, character count 16
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 14
+0:00:00:01 - Trying length 3, fixed @2, character count 14
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 9
+0:00:00:01 - Trying length 4, fixed @3, character count 9
+0:00:00:01 - Switching to length 5
+0:00:00:01 - Expanding tables for length 5 to character count 7
+0:00:00:01 - Trying length 5, fixed @5, character count 7
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 9
+0:00:00:01 - Trying length 4, fixed @4, character count 9
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 17
+0:00:00:01 - Trying length 2, fixed @2, character count 17
+0:00:00:01 - Switching to length 5
+0:00:00:01 - Expanding tables for length 5 to character count 7
+0:00:00:01 - Trying length 5, fixed @3, character count 7
+0:00:00:01 - Switching to length 6
+0:00:00:01 - Expanding tables for length 6 to character count 6
+0:00:00:01 - Trying length 6, fixed @5, character count 6
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 9
+0:00:00:01 - Trying length 4, fixed @2, character count 9
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 16
+0:00:00:01 - Trying length 2, fixed @1, character count 16
+0:00:00:01 - Switching to length 5
+0:00:00:01 - Expanding tables for length 5 to character count 7
+0:00:00:01 - Trying length 5, fixed @4, character count 7
+0:00:00:01 - Switching to length 6
+0:00:00:01 - Expanding tables for length 6 to character count 6
+0:00:00:01 - Trying length 6, fixed @1, character count 6
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 9
+0:00:00:01 - Trying length 4, fixed @1, character count 9
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 15
+0:00:00:01 - Trying length 3, fixed @2, character count 15
+0:00:00:01 - Trying length 3, fixed @1, character count 15
+0:00:00:01 - Switching to length 5
+0:00:00:01 - Expanding tables for length 5 to character count 7
+0:00:00:01 - Trying length 5, fixed @2, character count 7
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 15
+0:00:00:01 - Trying length 3, fixed @3, character count 15
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 18
+0:00:00:01 - Trying length 2, fixed @2, character count 18
+0:00:00:01 - Expanding tables for length 2 to character count 19
+0:00:00:01 - Trying length 2, fixed @2, character count 19
+0:00:00:01 - Switching to length 5
+0:00:00:01 - Expanding tables for length 5 to character count 7
+0:00:00:01 - Trying length 5, fixed @1, character count 7
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 20
+0:00:00:01 - Trying length 2, fixed @2, character count 20
+0:00:00:01 - Switching to length 8
+0:00:00:01 - Expanding tables for length 8 to character count 4
+0:00:00:01 - Trying length 8, fixed @2, character count 4
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 16
+0:00:00:01 - Trying length 3, fixed @3, character count 16
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 17
+0:00:00:01 - Trying length 2, fixed @1, character count 17
+0:00:00:01 - Switching to length 7
+0:00:00:01 - Expanding tables for length 7 to character count 5
+0:00:00:01 - Trying length 7, fixed @2, character count 5
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 10
+0:00:00:01 - Trying length 4, fixed @3, character count 10
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 21
+0:00:00:01 - Trying length 2, fixed @2, character count 21
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 16
+0:00:00:01 - Trying length 3, fixed @1, character count 16
+0:00:00:01 - Trying length 3, fixed @2, character count 16
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 10
+0:00:00:01 - Trying length 4, fixed @4, character count 10
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 18
+0:00:00:01 - Trying length 2, fixed @1, character count 18
+0:00:00:01 - Expanding tables for length 2 to character count 22
+0:00:00:01 - Trying length 2, fixed @2, character count 22
+0:00:00:01 - Trying length 2, fixed @1, character count 19
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 10
+0:00:00:01 - Trying length 4, fixed @2, character count 10
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 17
+0:00:00:01 - Trying length 3, fixed @3, character count 17
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 23
+0:00:00:01 - Trying length 2, fixed @2, character count 23
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 10
+0:00:00:01 - Trying length 4, fixed @1, character count 10
+0:00:00:01 - Switching to length 2
+0:00:00:01 - Expanding tables for length 2 to character count 20
+0:00:00:01 - Trying length 2, fixed @1, character count 20
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 17
+0:00:00:01 - Trying length 3, fixed @2, character count 17
+0:00:00:01 - Trying length 3, fixed @1, character count 17
+0:00:00:01 - Expanding tables for length 3 to character count 18
+0:00:00:01 - Trying length 3, fixed @3, character count 18
+0:00:00:01 - Switching to length 8
+0:00:00:01 - Expanding tables for length 8 to character count 4
+0:00:00:01 - Trying length 8, fixed @6, character count 4
+0:00:00:01 - Trying length 8, fixed @3, character count 4
+0:00:00:01 - Switching to length 5
+0:00:00:01 - Expanding tables for length 5 to character count 8
+0:00:00:01 - Trying length 5, fixed @3, character count 8
+0:00:00:01 - Switching to length 8
+0:00:00:01 - Expanding tables for length 8 to character count 4
+0:00:00:01 - Trying length 8, fixed @4, character count 4
+0:00:00:01 - Trying length 8, fixed @7, character count 4
+0:00:00:01 - Switching to length 3
+0:00:00:01 - Expanding tables for length 3 to character count 18
+0:00:00:01 - Trying length 3, fixed @2, character count 18
+0:00:00:01 - Switching to length 8
+0:00:00:01 - Expanding tables for length 8 to character count 4
+0:00:00:01 - Trying length 8, fixed @5, character count 4
+0:00:00:01 - Trying length 8, fixed @8, character count 4
+0:00:00:01 - Switching to length 4
+0:00:00:01 - Expanding tables for length 4 to character count 11
+0:00:00:01 - Trying length 4, fixed @3, character count 11
+0:00:00:01 - Switching to length 6
+0:00:00:01 - Expanding tables for length 6 to character count 7
+0:00:00:01 - Trying length 6, fixed @3, character count 7
+0:00:00:02 - Switching to length 2
+0:00:00:02 - Expanding tables for length 2 to character count 24
+0:00:00:02 - Trying length 2, fixed @2, character count 24
+0:00:00:02 - Switching to length 4
+0:00:00:02 - Expanding tables for length 4 to character count 11
+0:00:00:02 - Trying length 4, fixed @4, character count 11
+0:00:00:02 - Switching to length 5
+0:00:00:02 - Expanding tables for length 5 to character count 8
+0:00:00:02 - Trying length 5, fixed @5, character count 8
+0:00:00:02 - Trying length 5, fixed @4, character count 8
+0:00:00:02 - Switching to length 3
+0:00:00:02 - Expanding tables for length 3 to character count 19
+0:00:00:02 - Trying length 3, fixed @3, character count 19
+0:00:00:02 - Trying length 3, fixed @1, character count 18
+0:00:00:02 - Switching to length 2
+0:00:00:02 - Expanding tables for length 2 to character count 25
+0:00:00:02 - Trying length 2, fixed @2, character count 25
+0:00:00:02 - Switching to length 7
+0:00:00:02 - Expanding tables for length 7 to character count 5
+0:00:00:02 - Trying length 7, fixed @3, character count 5
+0:00:00:02 - Switching to length 8
+0:00:00:02 - Expanding tables for length 8 to character count 4
+0:00:00:02 - Trying length 8, fixed @1, character count 4
+0:00:00:02 - Switching to length 4
+0:00:00:02 - Expanding tables for length 4 to character count 11
+0:00:00:02 - Trying length 4, fixed @2, character count 11
+0:00:00:02 - Switching to length 3
+0:00:00:02 - Expanding tables for length 3 to character count 19
+0:00:00:02 - Trying length 3, fixed @2, character count 19
+0:00:00:02 - Switching to length 2
+0:00:00:02 - Expanding tables for length 2 to character count 21
+0:00:00:02 - Trying length 2, fixed @1, character count 21
+0:00:00:02 - Switching to length 6
+0:00:00:02 - Expanding tables for length 6 to character count 7
+0:00:00:02 - Trying length 6, fixed @6, character count 7
+0:00:00:02 - Switching to length 7
+0:00:00:02 - Expanding tables for length 7 to character count 5
+0:00:00:02 - Trying length 7, fixed @4, character count 5
+0:00:00:02 - Trying length 7, fixed @6, character count 5
+0:00:00:02 - Switching to length 5
+0:00:00:02 - Expanding tables for length 5 to character count 8
+0:00:00:02 - Trying length 5, fixed @2, character count 8
+0:00:00:02 - Switching to length 4
+0:00:00:02 - Expanding tables for length 4 to character count 11
+0:00:00:02 - Trying length 4, fixed @1, character count 11
+0:00:00:02 - Switching to length 6
+0:00:00:02 - Expanding tables for length 6 to character count 7
+0:00:00:02 - Trying length 6, fixed @4, character count 7
+0:00:00:02 - Switching to length 3
+0:00:00:02 - Expanding tables for length 3 to character count 20
+0:00:00:02 - Trying length 3, fixed @3, character count 20
+0:00:00:02 - Switching to length 2
+0:00:00:02 - Expanding tables for length 2 to character count 22
+0:00:00:02 - Trying length 2, fixed @1, character count 22
+0:00:00:02 - Switching to length 7
+0:00:00:02 - Expanding tables for length 7 to character count 5
+0:00:00:02 - Trying length 7, fixed @7, character count 5
+0:00:00:02 - Switching to length 5
+0:00:00:02 - Expanding tables for length 5 to character count 8
+0:00:00:02 - Trying length 5, fixed @1, character count 8
+0:00:00:02 - Switching to length 3
+0:00:00:02 - Expanding tables for length 3 to character count 19
+0:00:00:02 - Trying length 3, fixed @1, character count 19
+0:00:00:02 - Expanding tables for length 3 to character count 20
+0:00:00:02 - Trying length 3, fixed @2, character count 20
+0:00:00:02 - Switching to length 7
+0:00:00:02 - Expanding tables for length 7 to character count 5
+0:00:00:02 - Trying length 7, fixed @5, character count 5
+0:00:00:02 - Switching to length 6
+0:00:00:02 - Expanding tables for length 6 to character count 7
+0:00:00:02 - Trying length 6, fixed @5, character count 7
+0:00:00:02 - Trying length 6, fixed @2, character count 7
+0:00:00:02 - Trying length 6, fixed @1, character count 7
+0:00:00:02 - Switching to length 3
+0:00:00:02 - Expanding tables for length 3 to character count 21
+0:00:00:02 - Trying length 3, fixed @3, character count 21
+0:00:00:02 - Trying length 3, fixed @1, character count 20
+0:00:00:02 - Switching to length 4
+0:00:00:02 - Expanding tables for length 4 to character count 12
+0:00:00:02 - Trying length 4, fixed @4, character count 12
+0:00:00:02 - Trying length 4, fixed @3, character count 12
+0:00:00:02 - Switching to length 2
+0:00:00:02 - Expanding tables for length 2 to character count 26
+0:00:00:02 - Trying length 2, fixed @2, character count 26
+0:00:00:02 - Switching to length 7
+0:00:00:02 - Expanding tables for length 7 to character count 5
+0:00:00:02 - Trying length 7, fixed @1, character count 5
+0:00:00:02 - Switching to length 4
+0:00:00:02 - Expanding tables for length 4 to character count 12
+0:00:00:02 - Trying length 4, fixed @2, character count 12
+0:00:00:02 - Switching to length 3
+0:00:00:02 - Expanding tables for length 3 to character count 22
+0:00:00:02 - Trying length 3, fixed @3, character count 22
+0:00:00:02 - Trying length 3, fixed @2, character count 21
+0:00:00:02 - Switching to length 4
+0:00:00:02 - Expanding tables for length 4 to character count 12
+0:00:00:02 - Trying length 4, fixed @1, character count 12
+0:00:00:02 - Switching to length 5
+0:00:00:02 - Expanding tables for length 5 to character count 9
+0:00:00:02 - Trying length 5, fixed @3, character count 9
+0:00:00:02 - Switching to length 2
+0:00:00:02 - Expanding tables for length 2 to character count 23
+0:00:00:02 - Trying length 2, fixed @1, character count 23
+0:00:00:02 - Switching to length 3
+0:00:00:02 - Expanding tables for length 3 to character count 21
+0:00:00:02 - Trying length 3, fixed @1, character count 21
+0:00:00:02 - Expanding tables for length 3 to character count 23
+0:00:00:02 - Trying length 3, fixed @3, character count 23
+0:00:00:02 - Trying length 3, fixed @2, character count 22
+0:00:00:02 - Switching to length 2
+0:00:00:02 - Expanding tables for length 2 to character count 24
+0:00:00:02 - Trying length 2, fixed @1, character count 24
+0:00:00:02 - Switching to length 4
+0:00:00:02 - Expanding tables for length 4 to character count 13
+0:00:00:02 - Trying length 4, fixed @3, character count 13
+0:00:00:02 - Trying length 4, fixed @4, character count 13
+0:00:00:02 - Switching to length 2
+0:00:00:02 - Expanding tables for length 2 to character count 25
+0:00:00:02 - Trying length 2, fixed @1, character count 25
+0:00:00:02 - Switching to length 3
+0:00:00:02 - Expanding tables for length 3 to character count 22
+0:00:00:02 - Trying length 3, fixed @1, character count 22
+0:00:00:02 - Expanding tables for length 3 to character count 24
+0:00:00:02 - Trying length 3, fixed @3, character count 24
+0:00:00:02 - Trying length 3, fixed @2, character count 23
+0:00:00:02 - Switching to length 2
+0:00:00:02 - Expanding tables for length 2 to character count 27
+0:00:00:02 - Trying length 2, fixed @2, character count 27
+0:00:00:02 - Switching to length 5
+0:00:00:02 - Expanding tables for length 5 to character count 9
+0:00:00:02 - Trying length 5, fixed @4, character count 9
+0:00:00:02 - Switching to length 4
+0:00:00:02 - Expanding tables for length 4 to character count 13
+0:00:00:02 - Trying length 4, fixed @2, character count 13
+0:00:00:02 - Switching to length 2
+0:00:00:02 - Expanding tables for length 2 to character count 28
+0:00:00:02 - Trying length 2, fixed @2, character count 28
+0:00:00:02 - Switching to length 5
+0:00:00:02 - Expanding tables for length 5 to character count 9
+0:00:00:02 - Trying length 5, fixed @1, character count 9
+0:00:00:02 - Switching to length 3
+0:00:00:02 - Expanding tables for length 3 to character count 23
+0:00:00:02 - Trying length 3, fixed @1, character count 23
+0:00:00:02 - Switching to length 4
+0:00:00:02 - Expanding tables for length 4 to character count 13
+0:00:00:02 - Trying length 4, fixed @1, character count 13
+0:00:00:02 - Switching to length 5
+0:00:00:02 - Expanding tables for length 5 to character count 9
+0:00:00:02 - Trying length 5, fixed @5, character count 9
+0:00:00:02 - Switching to length 3
+0:00:00:02 - Expanding tables for length 3 to character count 25
+0:00:00:02 - Trying length 3, fixed @3, character count 25
+0:00:00:02 - Trying length 3, fixed @2, character count 24
+0:00:00:02 - Switching to length 6
+0:00:00:02 - Expanding tables for length 6 to character count 8
+0:00:00:02 - Trying length 6, fixed @3, character count 8
+0:00:00:03 - Switching to length 4
+0:00:00:03 - Expanding tables for length 4 to character count 14
+0:00:00:03 - Trying length 4, fixed @3, character count 14
+0:00:00:03 - Switching to length 3
+0:00:00:03 - Expanding tables for length 3 to character count 26
+0:00:00:03 - Trying length 3, fixed @3, character count 26
+0:00:00:03 - Trying length 3, fixed @1, character count 24
+0:00:00:03 - Switching to length 6
+0:00:00:03 - Expanding tables for length 6 to character count 8
+0:00:00:03 - Trying length 6, fixed @6, character count 8
+0:00:00:03 - Switching to length 4
+0:00:00:03 - Expanding tables for length 4 to character count 14
+0:00:00:03 - Trying length 4, fixed @4, character count 14
+0:00:00:03 - Switching to length 3
+0:00:00:03 - Expanding tables for length 3 to character count 25
+0:00:00:03 - Trying length 3, fixed @2, character count 25
+0:00:00:03 - Switching to length 6
+0:00:00:03 - Expanding tables for length 6 to character count 8
+0:00:00:03 - Trying length 6, fixed @4, character count 8
+0:00:00:03 - Switching to length 5
+0:00:00:03 - Expanding tables for length 5 to character count 9
+0:00:00:03 - Trying length 5, fixed @2, character count 9
+0:00:00:03 - Switching to length 3
+0:00:00:03 - Expanding tables for length 3 to character count 27
+0:00:00:03 - Trying length 3, fixed @3, character count 27
+0:00:00:03 - Switching to length 4
+0:00:00:03 - Expanding tables for length 4 to character count 14
+0:00:00:03 - Trying length 4, fixed @1, character count 14
+0:00:00:03 - Switching to length 5
+0:00:00:03 - Expanding tables for length 5 to character count 10
+0:00:00:03 - Trying length 5, fixed @3, character count 10
+0:00:00:03 - Switching to length 4
+0:00:00:03 - Expanding tables for length 4 to character count 14
+0:00:00:03 - Trying length 4, fixed @2, character count 14
+0:00:00:03 - Switching to length 3
+0:00:00:03 - Expanding tables for length 3 to character count 25
+0:00:00:03 - Trying length 3, fixed @1, character count 25
+0:00:00:03 - Switching to length 6
+0:00:00:03 - Expanding tables for length 6 to character count 8
+0:00:00:03 - Trying length 6, fixed @1, character count 8
+0:00:00:03 - Switching to length 2
+0:00:00:03 - Expanding tables for length 2 to character count 26
+0:00:00:03 - Trying length 2, fixed @1, character count 26
+0:00:00:03 - Switching to length 3
+0:00:00:03 - Expanding tables for length 3 to character count 26
+0:00:00:03 - Trying length 3, fixed @2, character count 26
+0:00:00:03 - Switching to length 6
+0:00:00:03 - Expanding tables for length 6 to character count 8
+0:00:00:03 - Trying length 6, fixed @2, character count 8
+0:00:00:03 - Switching to length 2
+0:00:00:03 - Expanding tables for length 2 to character count 27
+0:00:00:03 - Trying length 2, fixed @1, character count 27
+0:00:00:03 - Switching to length 4
+0:00:00:03 - Expanding tables for length 4 to character count 15
+0:00:00:03 - Trying length 4, fixed @3, character count 15
+0:00:00:03 - Switching to length 3
+0:00:00:03 - Expanding tables for length 3 to character count 28
+0:00:00:03 - Trying length 3, fixed @3, character count 28
+0:00:00:03 - Trying length 3, fixed @1, character count 26
+0:00:00:03 - Switching to length 6
+0:00:00:03 - Expanding tables for length 6 to character count 8
+0:00:00:03 - Trying length 6, fixed @5, character count 8
+0:00:00:03 - Switching to length 4
+0:00:00:03 - Expanding tables for length 4 to character count 15
+0:00:00:03 - Trying length 4, fixed @4, character count 15
+0:00:00:03 - Switching to length 2
+0:00:00:03 - Expanding tables for length 2 to character count 28
+0:00:00:03 - Trying length 2, fixed @1, character count 28
+0:00:00:03 - Switching to length 5
+0:00:00:03 - Expanding tables for length 5 to character count 10
+0:00:00:03 - Trying length 5, fixed @4, character count 10
+0:00:00:03 - Switching to length 2
+0:00:00:03 - Expanding tables for length 2 to character count 29
+0:00:00:03 - Trying length 2, fixed @1, character count 29
+0:00:00:03 - Trying length 2, fixed @2, character count 29
+0:00:00:03 - Switching to length 3
+0:00:00:03 - Expanding tables for length 3 to character count 27
+0:00:00:03 - Trying length 3, fixed @2, character count 27
+0:00:00:03 - Switching to length 5
+0:00:00:03 - Expanding tables for length 5 to character count 10
+0:00:00:03 - Trying length 5, fixed @1, character count 10
+0:00:00:03 - Switching to length 7
+0:00:00:03 - Expanding tables for length 7 to character count 6
+0:00:00:03 - Trying length 7, fixed @2, character count 6
+0:00:00:04 - Switching to length 2
+0:00:00:04 - Expanding tables for length 2 to character count 30
+0:00:00:04 - Trying length 2, fixed @1, character count 30
+0:00:00:04 - Trying length 2, fixed @2, character count 30
+0:00:00:04 - Switching to length 4
+0:00:00:04 - Expanding tables for length 4 to character count 15
+0:00:00:04 - Trying length 4, fixed @1, character count 15
+0:00:00:04 - Switching to length 3
+0:00:00:04 - Expanding tables for length 3 to character count 27
+0:00:00:04 - Trying length 3, fixed @1, character count 27
+0:00:00:04 - Switching to length 2
+0:00:00:04 - Expanding tables for length 2 to character count 31
+0:00:00:04 - Trying length 2, fixed @1, character count 31
+0:00:00:04 - Trying length 2, fixed @2, character count 31
+0:00:00:04 - Switching to length 3
+0:00:00:04 - Expanding tables for length 3 to character count 29
+0:00:00:04 - Trying length 3, fixed @3, character count 29
+0:00:00:04 - Switching to length 5
+0:00:00:04 - Expanding tables for length 5 to character count 10
+0:00:00:04 - Trying length 5, fixed @5, character count 10
+0:00:00:04 - Switching to length 2
+0:00:00:04 - Expanding tables for length 2 to character count 32
+0:00:00:04 - Trying length 2, fixed @1, character count 32
+0:00:00:04 - Trying length 2, fixed @2, character count 32
+0:00:00:04 - Switching to length 4
+0:00:00:04 - Expanding tables for length 4 to character count 15
+0:00:00:04 - Trying length 4, fixed @2, character count 15
+0:00:00:04 - Switching to length 3
+0:00:00:04 - Expanding tables for length 3 to character count 28
+0:00:00:04 - Trying length 3, fixed @2, character count 28
+0:00:00:04 - Switching to length 2
+0:00:00:04 - Expanding tables for length 2 to character count 33
+0:00:00:04 - Trying length 2, fixed @1, character count 33
+0:00:00:04 - Trying length 2, fixed @2, character count 33
+0:00:00:04 - Switching to length 7
+0:00:00:04 - Expanding tables for length 7 to character count 6
+0:00:00:04 - Trying length 7, fixed @3, character count 6
+0:00:00:04 - Switching to length 4
+0:00:00:04 - Expanding tables for length 4 to character count 16
+0:00:00:04 - Trying length 4, fixed @3, character count 16
+0:00:00:04 - Switching to length 2
+0:00:00:04 - Expanding tables for length 2 to character count 34
+0:00:00:04 - Trying length 2, fixed @1, character count 34
+0:00:00:04 - Trying length 2, fixed @2, character count 34
+0:00:00:04 - Switching to length 3
+0:00:00:04 - Expanding tables for length 3 to character count 28
+0:00:00:04 - Trying length 3, fixed @1, character count 28
+0:00:00:04 - Switching to length 4
+0:00:00:04 - Expanding tables for length 4 to character count 16
+0:00:00:04 - Trying length 4, fixed @4, character count 16
+0:00:00:04 - Switching to length 7
+0:00:00:04 - Expanding tables for length 7 to character count 6
+0:00:00:04 - Trying length 7, fixed @6, character count 6
+0:00:00:04 - Trying length 7, fixed @4, character count 6
+0:00:00:04 - Switching to length 5
+0:00:00:04 - Expanding tables for length 5 to character count 10
+0:00:00:04 - Trying length 5, fixed @2, character count 10
+0:00:00:04 - Switching to length 3
+0:00:00:04 - Expanding tables for length 3 to character count 29
+0:00:00:04 - Trying length 3, fixed @2, character count 29
+0:00:00:04 - Expanding tables for length 3 to character count 30
+0:00:00:04 - Trying length 3, fixed @3, character count 30
+0:00:00:04 - Switching to length 7
+0:00:00:04 - Expanding tables for length 7 to character count 6
+0:00:00:04 - Trying length 7, fixed @7, character count 6
+0:00:00:04 - Switching to length 3
+0:00:00:04 - Expanding tables for length 3 to character count 29
+0:00:00:04 - Trying length 3, fixed @1, character count 29
+0:00:00:04 - Expanding tables for length 3 to character count 30
+0:00:00:04 - Trying length 3, fixed @2, character count 30
+0:00:00:04 - Switching to length 4
+0:00:00:04 - Expanding tables for length 4 to character count 16
+0:00:00:04 - Trying length 4, fixed @1, character count 16
+0:00:00:04 - Switching to length 7
+0:00:00:04 - Expanding tables for length 7 to character count 6
+0:00:00:04 - Trying length 7, fixed @5, character count 6
+0:00:00:04 - Switching to length 3
+0:00:00:04 - Expanding tables for length 3 to character count 31
+0:00:00:04 - Trying length 3, fixed @3, character count 31
+0:00:00:04 - Switching to length 4
+0:00:00:04 - Expanding tables for length 4 to character count 16
+0:00:00:04 - Trying length 4, fixed @2, character count 16
+0:00:00:04 - Expanding tables for length 4 to character count 17
+0:00:00:04 - Trying length 4, fixed @3, character count 17
+0:00:00:04 - Switching to length 8
+0:00:00:04 - Expanding tables for length 8 to character count 5
+0:00:00:04 - Trying length 8, fixed @2, character count 5
+0:00:00:05 - Switching to length 3
+0:00:00:05 - Expanding tables for length 3 to character count 32
+0:00:00:05 - Trying length 3, fixed @3, character count 32
+0:00:00:05 - Switching to length 4
+0:00:00:05 - Expanding tables for length 4 to character count 17
+0:00:00:05 - Trying length 4, fixed @4, character count 17
+0:00:00:05 - Switching to length 6
+0:00:00:05 - Expanding tables for length 6 to character count 9
+0:00:00:05 - Trying length 6, fixed @4, character count 9
+0:00:00:05 - Switching to length 5
+0:00:00:05 - Expanding tables for length 5 to character count 11
+0:00:00:05 - Trying length 5, fixed @1, character count 11
+0:00:00:05 - Switching to length 6
+0:00:00:05 - Expanding tables for length 6 to character count 9
+0:00:00:05 - Trying length 6, fixed @3, character count 9
+0:00:00:05 - Switching to length 3
+0:00:00:05 - Expanding tables for length 3 to character count 31
+0:00:00:05 - Trying length 3, fixed @2, character count 31
+0:00:00:05 - Switching to length 6
+0:00:00:05 - Expanding tables for length 6 to character count 9
+0:00:00:05 - Trying length 6, fixed @6, character count 9
+0:00:00:05 - Switching to length 5
+0:00:00:05 - Expanding tables for length 5 to character count 11
+0:00:00:05 - Trying length 5, fixed @4, character count 11
+0:00:00:05 - Trying length 5, fixed @5, character count 11
+0:00:00:05 - Trying length 5, fixed @3, character count 11
+0:00:00:05 - Switching to length 3
+0:00:00:05 - Expanding tables for length 3 to character count 30
+0:00:00:05 - Trying length 3, fixed @1, character count 30
+0:00:00:05 - Expanding tables for length 3 to character count 32
+0:00:00:05 - Trying length 3, fixed @2, character count 32
+0:00:00:05 - Switching to length 8
+0:00:00:05 - Expanding tables for length 8 to character count 5
+0:00:00:05 - Trying length 8, fixed @6, character count 5
+0:00:00:05 - Switching to length 7
+0:00:00:05 - Expanding tables for length 7 to character count 6
+0:00:00:05 - Trying length 7, fixed @1, character count 6
+0:00:00:06 - Switching to length 6
+0:00:00:06 - Expanding tables for length 6 to character count 9
+0:00:00:06 - Trying length 6, fixed @1, character count 9
+0:00:00:06 - Switching to length 4
+0:00:00:06 - Expanding tables for length 4 to character count 17
+0:00:00:06 - Trying length 4, fixed @1, character count 17
+0:00:00:06 - Switching to length 3
+0:00:00:06 - Expanding tables for length 3 to character count 31
+0:00:00:06 - Trying length 3, fixed @1, character count 31
+0:00:00:06 - Switching to length 8
+0:00:00:06 - Expanding tables for length 8 to character count 5
+0:00:00:06 - Trying length 8, fixed @4, character count 5
+0:00:00:06 - Trying length 8, fixed @7, character count 5
+0:00:00:06 - Trying length 8, fixed @5, character count 5
+0:00:00:06 - Switching to length 6
+0:00:00:06 - Expanding tables for length 6 to character count 9
+0:00:00:06 - Trying length 6, fixed @5, character count 9
+0:00:00:06 - Switching to length 3
+0:00:00:06 - Expanding tables for length 3 to character count 33
+0:00:00:06 - Trying length 3, fixed @2, character count 33
+0:00:00:06 - Switching to length 8
+0:00:00:06 - Expanding tables for length 8 to character count 5
+0:00:00:06 - Trying length 8, fixed @3, character count 5
+0:00:00:07 - Switching to length 4
+0:00:00:07 - Expanding tables for length 4 to character count 18
+0:00:00:07 - Trying length 4, fixed @4, character count 18
+0:00:00:07 - Switching to length 8
+0:00:00:07 - Expanding tables for length 8 to character count 5
+0:00:00:07 - Trying length 8, fixed @8, character count 5
+0:00:00:07 - Switching to length 3
+0:00:00:07 - Expanding tables for length 3 to character count 33
+0:00:00:07 - Trying length 3, fixed @3, character count 33
+0:00:00:07 - Switching to length 4
+0:00:00:07 - Expanding tables for length 4 to character count 18
+0:00:00:07 - Trying length 4, fixed @3, character count 18
+0:00:00:07 - Trying length 4, fixed @2, character count 17
+0:00:00:07 - Switching to length 8
+0:00:00:07 - Expanding tables for length 8 to character count 5
+0:00:00:07 - Trying length 8, fixed @1, character count 5
+0:00:00:07 - Switching to length 6
+0:00:00:07 - Expanding tables for length 6 to character count 9
+0:00:00:07 - Trying length 6, fixed @2, character count 9
+0:00:00:07 - Switching to length 3
+0:00:00:07 - Expanding tables for length 3 to character count 34
+0:00:00:07 - Trying length 3, fixed @3, character count 34
+0:00:00:07 - Trying length 3, fixed @1, character count 32
+0:00:00:07 - Switching to length 4
+0:00:00:07 - Expanding tables for length 4 to character count 18
+0:00:00:07 - Trying length 4, fixed @1, character count 18
+0:00:00:07 - Switching to length 3
+0:00:00:07 - Expanding tables for length 3 to character count 33
+0:00:00:07 - Trying length 3, fixed @1, character count 33
+0:00:00:07 - Expanding tables for length 3 to character count 35
+0:00:00:07 - Trying length 3, fixed @3, character count 35
+0:00:00:07 - Switching to length 5
+0:00:00:07 - Expanding tables for length 5 to character count 11
+0:00:00:07 - Trying length 5, fixed @2, character count 11
+0:00:00:07 - Switching to length 4
+0:00:00:07 - Expanding tables for length 4 to character count 19
+0:00:00:07 - Trying length 4, fixed @3, character count 19
+0:00:00:07 - Switching to length 5
+0:00:00:07 - Expanding tables for length 5 to character count 12
+0:00:00:07 - Trying length 5, fixed @4, character count 12
+0:00:00:08 - Switching to length 3
+0:00:00:08 - Expanding tables for length 3 to character count 34
+0:00:00:08 - Trying length 3, fixed @2, character count 34
+0:00:00:08 - Switching to length 4
+0:00:00:08 - Expanding tables for length 4 to character count 18
+0:00:00:08 - Trying length 4, fixed @2, character count 18
+0:00:00:08 - Switching to length 5
+0:00:00:08 - Expanding tables for length 5 to character count 12
+0:00:00:08 - Trying length 5, fixed @1, character count 12
+0:00:00:08 - Trying length 5, fixed @3, character count 12
+0:00:00:08 - Switching to length 2
+0:00:00:08 - Expanding tables for length 2 to character count 35
+0:00:00:08 - Trying length 2, fixed @1, character count 35
+0:00:00:08 - Trying length 2, fixed @2, character count 35
+0:00:00:08 - Switching to length 3
+0:00:00:08 - Expanding tables for length 3 to character count 34
+0:00:00:08 - Trying length 3, fixed @1, character count 34
+0:00:00:08 - Switching to length 4
+0:00:00:08 - Expanding tables for length 4 to character count 19
+0:00:00:08 - Trying length 4, fixed @4, character count 19
+0:00:00:08 - Trying length 4, fixed @1, character count 19
+0:00:00:08 - Switching to length 2
+0:00:00:08 - Expanding tables for length 2 to character count 36
+0:00:00:08 - Trying length 2, fixed @1, character count 36
+0:00:00:08 - Trying length 2, fixed @2, character count 36
+0:00:00:08 - Switching to length 3
+0:00:00:08 - Expanding tables for length 3 to character count 35
+0:00:00:08 - Trying length 3, fixed @2, character count 35
+0:00:00:08 - Switching to length 2
+0:00:00:08 - Expanding tables for length 2 to character count 37
+0:00:00:08 - Trying length 2, fixed @1, character count 37
+0:00:00:08 - Trying length 2, fixed @2, character count 37
+0:00:00:08 - Expanding tables for length 2 to character count 38
+0:00:00:08 - Trying length 2, fixed @1, character count 38
+0:00:00:08 - Trying length 2, fixed @2, character count 38
+0:00:00:08 - Switching to length 6
+0:00:00:08 - Expanding tables for length 6 to character count 10
+0:00:00:08 - Trying length 6, fixed @3, character count 10
+0:00:00:08 - Switching to length 2
+0:00:00:08 - Expanding tables for length 2 to character count 39
+0:00:00:08 - Trying length 2, fixed @1, character count 39
+0:00:00:08 - Trying length 2, fixed @2, character count 39
+0:00:00:08 - Switching to length 4
+0:00:00:08 - Expanding tables for length 4 to character count 20
+0:00:00:08 - Trying length 4, fixed @3, character count 20
+0:00:00:08 - Switching to length 5
+0:00:00:08 - Expanding tables for length 5 to character count 12
+0:00:00:08 - Trying length 5, fixed @5, character count 12
+0:00:00:08 - Switching to length 3
+0:00:00:08 - Expanding tables for length 3 to character count 36
+0:00:00:08 - Trying length 3, fixed @2, character count 36
+0:00:00:08 - Switching to length 2
+0:00:00:08 - Expanding tables for length 2 to character count 40
+0:00:00:08 - Trying length 2, fixed @1, character count 40
+0:00:00:08 - Trying length 2, fixed @2, character count 40
+0:00:00:08 - Switching to length 6
+0:00:00:08 - Expanding tables for length 6 to character count 10
+0:00:00:08 - Trying length 6, fixed @4, character count 10
+0:00:00:09 - Trying length 6, fixed @6, character count 10
+0:00:00:09 - Switching to length 2
+0:00:00:09 - Expanding tables for length 2 to character count 41
+0:00:00:09 - Trying length 2, fixed @1, character count 41
+0:00:00:09 - Trying length 2, fixed @2, character count 41
+0:00:00:09 - Switching to length 7
+0:00:00:09 - Expanding tables for length 7 to character count 7
+0:00:00:09 - Trying length 7, fixed @2, character count 7
+0:00:00:09 - Switching to length 2
+0:00:00:09 - Expanding tables for length 2 to character count 42
+0:00:00:09 - Trying length 2, fixed @1, character count 42
+0:00:00:09 - Trying length 2, fixed @2, character count 42
+0:00:00:09 - Switching to length 4
+0:00:00:09 - Expanding tables for length 4 to character count 20
+0:00:00:09 - Trying length 4, fixed @4, character count 20
+0:00:00:09 - Switching to length 2
+0:00:00:09 - Expanding tables for length 2 to character count 43
+0:00:00:09 - Trying length 2, fixed @1, character count 43
+0:00:00:09 - Trying length 2, fixed @2, character count 43
+0:00:00:09 - Switching to length 4
+0:00:00:09 - Expanding tables for length 4 to character count 20
+0:00:00:09 - Trying length 4, fixed @1, character count 20
+0:00:00:09 - Switching to length 3
+0:00:00:09 - Expanding tables for length 3 to character count 36
+0:00:00:09 - Trying length 3, fixed @3, character count 36
+0:00:00:09 - Switching to length 2
+0:00:00:09 - Expanding tables for length 2 to character count 44
+0:00:00:09 - Trying length 2, fixed @1, character count 44
+0:00:00:09 - Trying length 2, fixed @2, character count 44
+0:00:00:09 - Switching to length 3
+0:00:00:09 - Expanding tables for length 3 to character count 35
+0:00:00:09 - Trying length 3, fixed @1, character count 35
+0:00:00:09 - Switching to length 6
+0:00:00:09 - Expanding tables for length 6 to character count 10
+0:00:00:09 - Trying length 6, fixed @5, character count 10
+0:00:00:10 - Switching to length 2
+0:00:00:10 - Expanding tables for length 2 to character count 45
+0:00:00:10 - Trying length 2, fixed @1, character count 45
+0:00:00:10 - Trying length 2, fixed @2, character count 45
+0:00:00:10 - Switching to length 7
+0:00:00:10 - Expanding tables for length 7 to character count 7
+0:00:00:10 - Trying length 7, fixed @3, character count 7
+0:00:00:10 - Switching to length 4
+0:00:00:10 - Expanding tables for length 4 to character count 21
+0:00:00:10 - Trying length 4, fixed @3, character count 21
+0:00:00:10 - Switching to length 2
+0:00:00:10 - Expanding tables for length 2 to character count 46
+0:00:00:10 - Trying length 2, fixed @1, character count 46
+0:00:00:10 - Trying length 2, fixed @2, character count 46
+0:00:00:10 - Switching to length 6
+0:00:00:10 - Expanding tables for length 6 to character count 10
+0:00:00:10 - Trying length 6, fixed @1, character count 10
+0:00:00:10 - Switching to length 2
+0:00:00:10 - Expanding tables for length 2 to character count 47
+0:00:00:10 - Trying length 2, fixed @1, character count 47
+0:00:00:10 - Trying length 2, fixed @2, character count 47
+0:00:00:10 - Switching to length 7
+0:00:00:10 - Expanding tables for length 7 to character count 7
+0:00:00:10 - Trying length 7, fixed @4, character count 7
+0:00:00:11 - Switching to length 2
+0:00:00:11 - Expanding tables for length 2 to character count 48
+0:00:00:11 - Trying length 2, fixed @1, character count 48
+0:00:00:11 - Trying length 2, fixed @2, character count 48
+0:00:00:11 - Expanding tables for length 2 to character count 49
+0:00:00:11 - Trying length 2, fixed @1, character count 49
+0:00:00:11 - Trying length 2, fixed @2, character count 49
+0:00:00:11 - Switching to length 5
+0:00:00:11 - Expanding tables for length 5 to character count 12
+0:00:00:11 - Trying length 5, fixed @2, character count 12
+0:00:00:11 - Switching to length 2
+0:00:00:11 - Expanding tables for length 2 to character count 50
+0:00:00:11 - Trying length 2, fixed @1, character count 50
+0:00:00:11 - Trying length 2, fixed @2, character count 50
+0:00:00:11 - Switching to length 5
+0:00:00:11 - Expanding tables for length 5 to character count 13
+0:00:00:11 - Trying length 5, fixed @4, character count 13
+0:00:00:11 - Switching to length 4
+0:00:00:11 - Expanding tables for length 4 to character count 21
+0:00:00:11 - Trying length 4, fixed @1, character count 21
+0:00:00:11 - Switching to length 2
+0:00:00:11 - Expanding tables for length 2 to character count 51
+0:00:00:11 - Trying length 2, fixed @1, character count 51
+0:00:00:11 - Trying length 2, fixed @2, character count 51
+0:00:00:11 - Switching to length 7
+0:00:00:11 - Expanding tables for length 7 to character count 7
+0:00:00:11 - Trying length 7, fixed @6, character count 7
+0:00:00:11 - Switching to length 2
+0:00:00:11 - Expanding tables for length 2 to character count 52
+0:00:00:11 - Trying length 2, fixed @1, character count 52
+0:00:00:11 - Trying length 2, fixed @2, character count 52
+0:00:00:11 - Switching to length 7
+0:00:00:11 - Expanding tables for length 7 to character count 7
+0:00:00:11 - Trying length 7, fixed @7, character count 7
+0:00:00:11 - Switching to length 4
+0:00:00:11 - Expanding tables for length 4 to character count 21
+0:00:00:11 - Trying length 4, fixed @4, character count 21
+0:00:00:11 - Switching to length 2
+0:00:00:11 - Expanding tables for length 2 to character count 53
+0:00:00:11 - Trying length 2, fixed @1, character count 53
+0:00:00:11 - Trying length 2, fixed @2, character count 53
+0:00:00:11 - Switching to length 5
+0:00:00:11 - Expanding tables for length 5 to character count 13
+0:00:00:11 - Trying length 5, fixed @1, character count 13
+0:00:00:11 - Switching to length 2
+0:00:00:11 - Expanding tables for length 2 to character count 54
+0:00:00:11 - Trying length 2, fixed @1, character count 54
+0:00:00:11 - Trying length 2, fixed @2, character count 54
+0:00:00:11 - Switching to length 5
+0:00:00:11 - Expanding tables for length 5 to character count 13
+0:00:00:11 - Trying length 5, fixed @3, character count 13
+0:00:00:12 - Switching to length 4
+0:00:00:12 - Expanding tables for length 4 to character count 19
+0:00:00:12 - Trying length 4, fixed @2, character count 19
+0:00:00:12 - Switching to length 7
+0:00:00:12 - Expanding tables for length 7 to character count 7
+0:00:00:12 - Trying length 7, fixed @5, character count 7
+0:00:00:12 - Switching to length 2
+0:00:00:12 - Expanding tables for length 2 to character count 55
+0:00:00:12 - Trying length 2, fixed @1, character count 55
+0:00:00:12 - Trying length 2, fixed @2, character count 55
+0:00:00:12 - Switching to length 5
+0:00:00:12 - Expanding tables for length 5 to character count 13
+0:00:00:12 - Trying length 5, fixed @5, character count 13
+0:00:00:12 - Switching to length 2
+0:00:00:12 - Expanding tables for length 2 to character count 56
+0:00:00:12 - Trying length 2, fixed @1, character count 56
+0:00:00:12 - Trying length 2, fixed @2, character count 56
+0:00:00:12 - Switching to length 4
+0:00:00:12 - Expanding tables for length 4 to character count 22
+0:00:00:12 - Trying length 4, fixed @3, character count 22
+0:00:00:12 - Switching to length 2
+0:00:00:12 - Expanding tables for length 2 to character count 57
+0:00:00:12 - Trying length 2, fixed @1, character count 57
+0:00:00:12 - Trying length 2, fixed @2, character count 57
+0:00:00:12 - Expanding tables for length 2 to character count 58
+0:00:00:12 - Trying length 2, fixed @1, character count 58
+0:00:00:12 - Trying length 2, fixed @2, character count 58
+0:00:00:12 - Expanding tables for length 2 to character count 59
+0:00:00:12 - Trying length 2, fixed @1, character count 59
+0:00:00:12 - Trying length 2, fixed @2, character count 59
+0:00:00:12 - Expanding tables for length 2 to character count 60
+0:00:00:12 - Trying length 2, fixed @1, character count 60
+0:00:00:12 - Trying length 2, fixed @2, character count 60
+0:00:00:12 - Expanding tables for length 2 to character count 61
+0:00:00:12 - Trying length 2, fixed @1, character count 61
+0:00:00:12 - Trying length 2, fixed @2, character count 61
+0:00:00:12 - Expanding tables for length 2 to character count 62
+0:00:00:12 - Trying length 2, fixed @1, character count 62
+0:00:00:12 - Trying length 2, fixed @2, character count 62
+0:00:00:12 - Expanding tables for length 2 to character count 63
+0:00:00:12 - Trying length 2, fixed @1, character count 63
+0:00:00:12 - Trying length 2, fixed @2, character count 63
+0:00:00:12 - Expanding tables for length 2 to character count 64
+0:00:00:12 - Trying length 2, fixed @1, character count 64
+0:00:00:12 - Trying length 2, fixed @2, character count 64
+0:00:00:12 - Expanding tables for length 2 to character count 65
+0:00:00:12 - Trying length 2, fixed @1, character count 65
+0:00:00:12 - Trying length 2, fixed @2, character count 65
+0:00:00:12 - Expanding tables for length 2 to character count 66
+0:00:00:12 - Trying length 2, fixed @1, character count 66
+0:00:00:12 - Trying length 2, fixed @2, character count 66
+0:00:00:12 - Switching to length 4
+0:00:00:12 - Expanding tables for length 4 to character count 22
+0:00:00:12 - Trying length 4, fixed @1, character count 22
+0:00:00:12 - Trying length 4, fixed @2, character count 20
+0:00:00:12 - Switching to length 7
+0:00:00:12 - Expanding tables for length 7 to character count 7
+0:00:00:12 - Trying length 7, fixed @1, character count 7
+0:00:00:13 - Switching to length 2
+0:00:00:13 - Expanding tables for length 2 to character count 67
+0:00:00:13 - Trying length 2, fixed @1, character count 67
+0:00:00:13 - Trying length 2, fixed @2, character count 67
+0:00:00:13 - Switching to length 6
+0:00:00:13 - Expanding tables for length 6 to character count 11
+0:00:00:13 - Trying length 6, fixed @3, character count 11
+0:00:00:13 - Switching to length 2
+0:00:00:13 - Expanding tables for length 2 to character count 68
+0:00:00:13 - Trying length 2, fixed @1, character count 68
+0:00:00:13 - Trying length 2, fixed @2, character count 68
+0:00:00:13 - Switching to length 6
+0:00:00:13 - Expanding tables for length 6 to character count 11
+0:00:00:13 - Trying length 6, fixed @4, character count 11
+0:00:00:14 - Switching to length 2
+0:00:00:14 - Expanding tables for length 2 to character count 69
+0:00:00:14 - Trying length 2, fixed @1, character count 69
+0:00:00:14 - Trying length 2, fixed @2, character count 69
+0:00:00:14 - Switching to length 6
+0:00:00:14 - Expanding tables for length 6 to character count 10
+0:00:00:14 - Trying length 6, fixed @2, character count 10
+0:00:00:14 - Switching to length 2
+0:00:00:14 - Expanding tables for length 2 to character count 70
+0:00:00:14 - Trying length 2, fixed @1, character count 70
+0:00:00:14 - Trying length 2, fixed @2, character count 70
+0:00:00:14 - Expanding tables for length 2 to character count 71
+0:00:00:14 - Trying length 2, fixed @1, character count 71
+0:00:00:14 - Trying length 2, fixed @2, character count 71
+0:00:00:14 - Switching to length 6
+0:00:00:14 - Expanding tables for length 6 to character count 11
+0:00:00:14 - Trying length 6, fixed @6, character count 11
+0:00:00:15 - Switching to length 5
+0:00:00:15 - Expanding tables for length 5 to character count 14
+0:00:00:15 - Trying length 5, fixed @4, character count 14
+0:00:00:15 - Switching to length 2
+0:00:00:15 - Expanding tables for length 2 to character count 72
+0:00:00:15 - Trying length 2, fixed @1, character count 72
+0:00:00:15 - Trying length 2, fixed @2, character count 72
+0:00:00:15 - Expanding tables for length 2 to character count 73
+0:00:00:15 - Trying length 2, fixed @1, character count 73
+0:00:00:15 - Trying length 2, fixed @2, character count 73
+0:00:00:15 - Expanding tables for length 2 to character count 74
+0:00:00:15 - Trying length 2, fixed @1, character count 74
+0:00:00:15 - Trying length 2, fixed @2, character count 74
+0:00:00:15 - Expanding tables for length 2 to character count 75
+0:00:00:15 - Trying length 2, fixed @1, character count 75
+0:00:00:15 - Trying length 2, fixed @2, character count 75
+0:00:00:15 - Switching to length 5
+0:00:00:15 - Expanding tables for length 5 to character count 14
+0:00:00:15 - Trying length 5, fixed @3, character count 14
+0:00:00:15 - Trying length 5, fixed @2, character count 13
+0:00:00:15 - Switching to length 2
+0:00:00:15 - Expanding tables for length 2 to character count 76
+0:00:00:15 - Trying length 2, fixed @1, character count 76
+0:00:00:15 - Trying length 2, fixed @2, character count 76
+0:00:00:15 - Switching to length 5
+0:00:00:15 - Expanding tables for length 5 to character count 14
+0:00:00:15 - Trying length 5, fixed @1, character count 14
+0:00:00:15 - Switching to length 2
+0:00:00:15 - Expanding tables for length 2 to character count 77
+0:00:00:15 - Trying length 2, fixed @1, character count 77
+0:00:00:15 - Trying length 2, fixed @2, character count 77
+0:00:00:15 - Switching to length 5
+0:00:00:15 - Expanding tables for length 5 to character count 14
+0:00:00:15 - Trying length 5, fixed @5, character count 14
+0:00:00:15 - Switching to length 2
+0:00:00:15 - Expanding tables for length 2 to character count 78
+0:00:00:15 - Trying length 2, fixed @1, character count 78
+0:00:00:15 - Trying length 2, fixed @2, character count 78
+0:00:00:15 - Switching to length 6
+0:00:00:15 - Expanding tables for length 6 to character count 11
+0:00:00:15 - Trying length 6, fixed @5, character count 11
+0:00:00:16 - Switching to length 2
+0:00:00:16 - Expanding tables for length 2 to character count 79
+0:00:00:16 - Trying length 2, fixed @1, character count 79
+0:00:00:16 - Trying length 2, fixed @2, character count 79
+0:00:00:16 - Switching to length 4
+0:00:00:16 - Expanding tables for length 4 to character count 23
+0:00:00:16 - Trying length 4, fixed @1, character count 23
+0:00:00:16 - Switching to length 6
+0:00:00:16 - Expanding tables for length 6 to character count 11
+0:00:00:16 - Trying length 6, fixed @1, character count 11
+0:00:00:16 - Switching to length 3
+0:00:00:16 - Expanding tables for length 3 to character count 36
+0:00:00:16 - Trying length 3, fixed @1, character count 36
+0:00:00:16 - Switching to length 2
+0:00:00:16 - Expanding tables for length 2 to character count 80
+0:00:00:16 - Trying length 2, fixed @1, character count 80
+0:00:00:16 - Trying length 2, fixed @2, character count 80
+0:00:00:16 - Switching to length 4
+0:00:00:16 - Expanding tables for length 4 to character count 22
+0:00:00:16 - Trying length 4, fixed @4, character count 22
+0:00:00:16 - Switching to length 2
+0:00:00:16 - Expanding tables for length 2 to character count 81
+0:00:00:16 - Trying length 2, fixed @1, character count 81
+0:00:00:16 - Trying length 2, fixed @2, character count 81
+0:00:00:16 - Expanding tables for length 2 to character count 82
+0:00:00:16 - Trying length 2, fixed @1, character count 82
+0:00:00:16 - Trying length 2, fixed @2, character count 82
+0:00:00:16 - Expanding tables for length 2 to character count 83
+0:00:00:16 - Trying length 2, fixed @1, character count 83
+0:00:00:16 - Trying length 2, fixed @2, character count 83
+0:00:00:16 - Switching to length 4
+0:00:00:16 - Expanding tables for length 4 to character count 21
+0:00:00:16 - Trying length 4, fixed @2, character count 21
+0:00:00:16 - Switching to length 2
+0:00:00:16 - Expanding tables for length 2 to character count 84
+0:00:00:16 - Trying length 2, fixed @1, character count 84
+0:00:00:16 - Trying length 2, fixed @2, character count 84
+0:00:00:16 - Expanding tables for length 2 to character count 85
+0:00:00:16 - Trying length 2, fixed @1, character count 85
+0:00:00:16 - Trying length 2, fixed @2, character count 85
+0:00:00:16 - Expanding tables for length 2 to character count 86
+0:00:00:16 - Trying length 2, fixed @1, character count 86
+0:00:00:16 - Trying length 2, fixed @2, character count 86
+0:00:00:16 - Switching to length 4
+0:00:00:16 - Expanding tables for length 4 to character count 23
+0:00:00:16 - Trying length 4, fixed @3, character count 23
+0:00:00:16 - Switching to length 2
+0:00:00:16 - Expanding tables for length 2 to character count 87
+0:00:00:16 - Trying length 2, fixed @1, character count 87
+0:00:00:16 - Trying length 2, fixed @2, character count 87
+0:00:00:16 - Expanding tables for length 2 to character count 88
+0:00:00:16 - Trying length 2, fixed @1, character count 88
+0:00:00:16 - Trying length 2, fixed @2, character count 88
+0:00:00:16 - Expanding tables for length 2 to character count 89
+0:00:00:16 - Trying length 2, fixed @1, character count 89
+0:00:00:17 - Trying length 2, fixed @2, character count 89
+0:00:00:17 - Expanding tables for length 2 to character count 90
+0:00:00:17 - Trying length 2, fixed @1, character count 90
+0:00:00:17 - Trying length 2, fixed @2, character count 90
+0:00:00:17 - Expanding tables for length 2 to character count 91
+0:00:00:17 - Trying length 2, fixed @1, character count 91
+0:00:00:17 - Trying length 2, fixed @2, character count 91
+0:00:00:17 - Expanding tables for length 2 to character count 92
+0:00:00:17 - Trying length 2, fixed @1, character count 92
+0:00:00:17 - Trying length 2, fixed @2, character count 92
+0:00:00:17 - Expanding tables for length 2 to character count 93
+0:00:00:17 - Trying length 2, fixed @1, character count 93
+0:00:00:17 - Trying length 2, fixed @2, character count 93
+0:00:00:17 - Switching to length 4
+0:00:00:17 - Expanding tables for length 4 to character count 23
+0:00:00:17 - Trying length 4, fixed @4, character count 23
+0:00:00:17 - Switching to length 2
+0:00:00:17 - Expanding tables for length 2 to character count 94
+0:00:00:17 - Trying length 2, fixed @1, character count 94
+0:00:00:17 - Trying length 2, fixed @2, character count 94
+0:00:00:17 - Expanding tables for length 2 to character count 95
+0:00:00:17 - Trying length 2, fixed @1, character count 95
+0:00:00:17 - Trying length 2, fixed @2, character count 95
+0:00:00:17 - Switching to length 8
+0:00:00:17 - Expanding tables for length 8 to character count 6
+0:00:00:17 - Trying length 8, fixed @6, character count 6
+0:00:00:17 - Trying length 8, fixed @2, character count 6
+0:00:00:18 - Switching to length 4
+0:00:00:18 - Expanding tables for length 4 to character count 24
+0:00:00:18 - Trying length 4, fixed @1, character count 24
+0:00:00:18 - Switching to length 5
+0:00:00:18 - Expanding tables for length 5 to character count 15
+0:00:00:18 - Trying length 5, fixed @3, character count 15
+0:00:00:18 - Switching to length 8
+0:00:00:18 - Expanding tables for length 8 to character count 6
+0:00:00:18 - Trying length 8, fixed @4, character count 6
+0:00:00:19 - Switching to length 5
+0:00:00:19 - Expanding tables for length 5 to character count 15
+0:00:00:19 - Trying length 5, fixed @5, character count 15
+0:00:00:19 - Switching to length 8
+0:00:00:19 - Expanding tables for length 8 to character count 6
+0:00:00:19 - Trying length 8, fixed @5, character count 6
+0:00:00:20 - Trying length 8, fixed @7, character count 6
+0:00:00:20 - Switching to length 4
+0:00:00:20 - Expanding tables for length 4 to character count 22
+0:00:00:20 - Trying length 4, fixed @2, character count 22
+0:00:00:20 - Expanding tables for length 4 to character count 24
+0:00:00:20 - Trying length 4, fixed @3, character count 24
+0:00:00:20 - Switching to length 8
+0:00:00:20 - Expanding tables for length 8 to character count 6
+0:00:00:20 - Trying length 8, fixed @8, character count 6
+0:00:00:20 - Trying length 8, fixed @3, character count 6
+0:00:00:21 - Switching to length 5
+0:00:00:21 - Expanding tables for length 5 to character count 15
+0:00:00:21 - Trying length 5, fixed @4, character count 15
+0:00:00:21 - Trying length 5, fixed @1, character count 15
+0:00:00:22 - Switching to length 4
+0:00:00:22 - Expanding tables for length 4 to character count 24
+0:00:00:22 - Trying length 4, fixed @4, character count 24
+0:00:00:22 - Switching to length 5
+0:00:00:22 - Expanding tables for length 5 to character count 14
+0:00:00:22 - Trying length 5, fixed @2, character count 14
+0:00:00:22 - Switching to length 8
+0:00:00:22 - Expanding tables for length 8 to character count 6
+0:00:00:22 - Trying length 8, fixed @1, character count 6
+0:00:00:23 - Switching to length 7
+0:00:00:23 - Expanding tables for length 7 to character count 8
+0:00:00:23 - Trying length 7, fixed @3, character count 8
+0:00:00:24 - Switching to length 6
+0:00:00:24 - Expanding tables for length 6 to character count 12
+0:00:00:24 - Trying length 6, fixed @4, character count 12
+0:00:00:25 - Switching to length 4
+0:00:00:25 - Expanding tables for length 4 to character count 25
+0:00:00:25 - Trying length 4, fixed @1, character count 25
+0:00:00:25 - Switching to length 6
+0:00:00:25 - Expanding tables for length 6 to character count 11
+0:00:00:25 - Trying length 6, fixed @2, character count 11
+0:00:00:25 - Switching to length 3
+0:00:00:25 - Expanding tables for length 3 to character count 37
+0:00:00:25 - Trying length 3, fixed @2, character count 37
+0:00:00:25 - Switching to length 4
+0:00:00:25 - Expanding tables for length 4 to character count 25
+0:00:00:25 - Trying length 4, fixed @3, character count 25
+0:00:00:25 - Switching to length 7
+0:00:00:25 - Expanding tables for length 7 to character count 8
+0:00:00:25 - Trying length 7, fixed @6, character count 8
+0:00:00:26 - Switching to length 6
+0:00:00:26 - Expanding tables for length 6 to character count 12
+0:00:00:26 - Trying length 6, fixed @3, character count 12
+0:00:00:27 - Switching to length 7
+0:00:00:27 - Expanding tables for length 7 to character count 8
+0:00:00:27 - Trying length 7, fixed @2, character count 8
+0:00:00:28 - Switching to length 4
+0:00:00:28 - Expanding tables for length 4 to character count 23
+0:00:00:28 - Trying length 4, fixed @2, character count 23
+0:00:00:28 - Expanding tables for length 4 to character count 25
+0:00:00:28 - Trying length 4, fixed @4, character count 25
+0:00:00:28 - Switching to length 6
+0:00:00:28 - Expanding tables for length 6 to character count 12
+0:00:00:28 - Trying length 6, fixed @5, character count 12
+0:00:00:28 - Switching to length 4
+0:00:00:28 - Expanding tables for length 4 to character count 26
+0:00:00:28 - Trying length 4, fixed @1, character count 26
+0:00:00:29 - Switching to length 3
+0:00:00:29 - Expanding tables for length 3 to character count 37
+0:00:00:29 - Trying length 3, fixed @1, character count 37
+0:00:00:29 - Switching to length 6
+0:00:00:29 - Expanding tables for length 6 to character count 12
+0:00:00:29 - Trying length 6, fixed @6, character count 12
+0:00:00:29 - Switching to length 7
+0:00:00:29 - Expanding tables for length 7 to character count 8
+0:00:00:29 - Trying length 7, fixed @4, character count 8
+0:00:00:30 - Switching to length 5
+0:00:00:30 - Expanding tables for length 5 to character count 16
+0:00:00:30 - Trying length 5, fixed @3, character count 16
+0:00:00:30 - Switching to length 6
+0:00:00:30 - Expanding tables for length 6 to character count 12
+0:00:00:30 - Trying length 6, fixed @1, character count 12
+0:00:00:31 - Switching to length 7
+0:00:00:31 - Expanding tables for length 7 to character count 8
+0:00:00:31 - Trying length 7, fixed @5, character count 8
+0:00:00:32 - Trying length 7, fixed @7, character count 8
+0:00:00:32 - Switching to length 5
+0:00:00:32 - Expanding tables for length 5 to character count 16
+0:00:00:32 - Trying length 5, fixed @4, character count 16
+0:00:00:32 - Trying length 5, fixed @5, character count 16
+0:00:00:33 - Switching to length 4
+0:00:00:33 - Expanding tables for length 4 to character count 26
+0:00:00:33 - Trying length 4, fixed @3, character count 26
+0:00:00:33 - Switching to length 5
+0:00:00:33 - Expanding tables for length 5 to character count 15
+0:00:00:33 - Trying length 5, fixed @2, character count 15
+0:00:00:33 - Expanding tables for length 5 to character count 16
+0:00:00:33 - Trying length 5, fixed @1, character count 16
+0:00:00:33 - Switching to length 4
+0:00:00:33 - Expanding tables for length 4 to character count 26
+0:00:00:33 - Trying length 4, fixed @4, character count 26
+0:00:00:33 - Switching to length 3
+0:00:00:33 - Expanding tables for length 3 to character count 38
+0:00:00:33 - Trying length 3, fixed @1, character count 38
+0:00:00:33 - Switching to length 4
+0:00:00:33 - Expanding tables for length 4 to character count 27
+0:00:00:33 - Trying length 4, fixed @1, character count 27
+0:00:00:33 - Switching to length 7
+0:00:00:33 - Expanding tables for length 7 to character count 8
+0:00:00:33 - Trying length 7, fixed @1, character count 8
+0:00:00:34 - Switching to length 3
+0:00:00:34 - Expanding tables for length 3 to character count 39
+0:00:00:34 - Trying length 3, fixed @1, character count 39
+0:00:00:34 - Switching to length 4
+0:00:00:34 - Expanding tables for length 4 to character count 24
+0:00:00:34 - Trying length 4, fixed @2, character count 24
+0:00:00:35 - Expanding tables for length 4 to character count 27
+0:00:00:35 - Trying length 4, fixed @4, character count 27
+0:00:00:35 - Switching to length 5
+0:00:00:35 - Expanding tables for length 5 to character count 17
+0:00:00:35 - Trying length 5, fixed @4, character count 17
+0:00:00:35 - Switching to length 4
+0:00:00:35 - Expanding tables for length 4 to character count 27
+0:00:00:35 - Trying length 4, fixed @3, character count 27
+0:00:00:35 - Switching to length 6
+0:00:00:35 - Expanding tables for length 6 to character count 13
+0:00:00:35 - Trying length 6, fixed @4, character count 13
+0:00:00:36 - Switching to length 4
+0:00:00:36 - Expanding tables for length 4 to character count 25
+0:00:00:36 - Trying length 4, fixed @2, character count 25
+0:00:00:36 - Switching to length 6
+0:00:00:36 - Expanding tables for length 6 to character count 12
+0:00:00:36 - Trying length 6, fixed @2, character count 12
+0:00:00:37 - Switching to length 5
+0:00:00:37 - Expanding tables for length 5 to character count 17
+0:00:00:37 - Trying length 5, fixed @3, character count 17
+0:00:00:37 - Switching to length 3
+0:00:00:37 - Expanding tables for length 3 to character count 40
+0:00:00:37 - Trying length 3, fixed @1, character count 40
+0:00:00:37 - Switching to length 5
+0:00:00:37 - Expanding tables for length 5 to character count 16
+0:00:00:37 - Trying length 5, fixed @2, character count 16
+0:00:00:38 - Expanding tables for length 5 to character count 17
+0:00:00:38 - Trying length 5, fixed @5, character count 17
+0:00:00:38 - Switching to length 6
+0:00:00:38 - Expanding tables for length 6 to character count 13
+0:00:00:38 - Trying length 6, fixed @3, character count 13
+0:00:00:39 - Switching to length 4
+0:00:00:39 - Expanding tables for length 4 to character count 28
+0:00:00:39 - Trying length 4, fixed @1, character count 28
+0:00:00:39 - Switching to length 3
+0:00:00:39 - Expanding tables for length 3 to character count 41
+0:00:00:39 - Trying length 3, fixed @1, character count 41
+0:00:00:39 - Switching to length 5
+0:00:00:39 - Expanding tables for length 5 to character count 17
+0:00:00:39 - Trying length 5, fixed @1, character count 17
+0:00:00:40 - Switching to length 6
+0:00:00:40 - Expanding tables for length 6 to character count 13
+0:00:00:40 - Trying length 6, fixed @5, character count 13
+0:00:00:41 - Trying length 6, fixed @1, character count 13
+0:00:00:42 - Switching to length 4
+0:00:00:42 - Expanding tables for length 4 to character count 28
+0:00:00:42 - Trying length 4, fixed @4, character count 28
+0:00:00:42 - Switching to length 3
+0:00:00:42 - Expanding tables for length 3 to character count 37
+0:00:00:42 - Trying length 3, fixed @3, character count 37
+0:00:00:42 - Switching to length 6
+0:00:00:42 - Expanding tables for length 6 to character count 13
+0:00:00:42 - Trying length 6, fixed @6, character count 13
+0:00:00:43 - Switching to length 3
+0:00:00:43 - Expanding tables for length 3 to character count 38
+0:00:00:43 - Trying length 3, fixed @2, character count 38
+0:00:00:43 - Switching to length 4
+0:00:00:43 - Expanding tables for length 4 to character count 26
+0:00:00:43 - Trying length 4, fixed @2, character count 26
+0:00:00:43 - Expanding tables for length 4 to character count 29
+0:00:00:43 - Trying length 4, fixed @1, character count 29
+0:00:00:43 - Switching to length 3
+0:00:00:43 - Expanding tables for length 3 to character count 42
+0:00:00:43 - Trying length 3, fixed @1, character count 42
+0:00:00:43 - Switching to length 5
+0:00:00:43 - Expanding tables for length 5 to character count 18
+0:00:00:44 - Trying length 5, fixed @3, character count 18
+0:00:00:44 - Switching to length 3
+0:00:00:44 - Expanding tables for length 3 to character count 43
+0:00:00:44 - Trying length 3, fixed @1, character count 43
+0:00:00:44 - Switching to length 5
+0:00:00:44 - Expanding tables for length 5 to character count 18
+0:00:00:44 - Trying length 5, fixed @4, character count 18
+0:00:00:44 - Trying length 5, fixed @5, character count 18
+0:00:00:45 - Trying length 5, fixed @1, character count 18
+0:00:00:45 - Switching to length 7
+0:00:00:45 - Expanding tables for length 7 to character count 9
+0:00:00:45 - Trying length 7, fixed @6, character count 9
+0:00:00:46 - Switching to length 4
+0:00:00:46 - Expanding tables for length 4 to character count 28
+0:00:00:46 - Trying length 4, fixed @3, character count 28
+0:00:00:46 - Switching to length 7
+0:00:00:46 - Expanding tables for length 7 to character count 9
+0:00:00:46 - Trying length 7, fixed @3, character count 9
+0:00:00:48 - Switching to length 3
+0:00:00:48 - Expanding tables for length 3 to character count 38
+0:00:00:48 - Trying length 3, fixed @3, character count 38
+0:00:00:48 - Switching to length 5
+0:00:00:48 - Expanding tables for length 5 to character count 17
+0:00:00:48 - Trying length 5, fixed @2, character count 17
+0:00:00:48 - Switching to length 6
+0:00:00:48 - Expanding tables for length 6 to character count 14
+0:00:00:48 - Trying length 6, fixed @4, character count 14
+0:00:00:50 - Switching to length 4
+0:00:00:50 - Expanding tables for length 4 to character count 27
+0:00:00:50 - Trying length 4, fixed @2, character count 27
+0:00:00:50 - Expanding tables for length 4 to character count 29
+0:00:00:50 - Trying length 4, fixed @4, character count 29
+0:00:00:50 - Expanding tables for length 4 to character count 30
+0:00:00:50 - Trying length 4, fixed @1, character count 30
+0:00:00:50 - Switching to length 7
+0:00:00:50 - Expanding tables for length 7 to character count 9
+0:00:00:50 - Trying length 7, fixed @7, character count 9
+0:00:00:51 - Switching to length 3
+0:00:00:51 - Expanding tables for length 3 to character count 39
+0:00:00:51 - Trying length 3, fixed @2, character count 39
+0:00:00:51 - Switching to length 6
+0:00:00:51 - Expanding tables for length 6 to character count 13
+0:00:00:51 - Trying length 6, fixed @2, character count 13
+0:00:00:53 - Switching to length 5
+0:00:00:53 - Expanding tables for length 5 to character count 19
+0:00:00:53 - Trying length 5, fixed @3, character count 19
+0:00:00:53 - Switching to length 3
+0:00:00:53 - Expanding tables for length 3 to character count 44
+0:00:00:53 - Trying length 3, fixed @1, character count 44
+0:00:00:53 - Switching to length 4
+0:00:00:53 - Expanding tables for length 4 to character count 29
+0:00:00:53 - Trying length 4, fixed @3, character count 29
+0:00:00:53 - Switching to length 6
+0:00:00:53 - Expanding tables for length 6 to character count 14
+0:00:00:53 - Trying length 6, fixed @3, character count 14
+0:00:00:55 - Switching to length 7
+0:00:00:55 - Expanding tables for length 7 to character count 9
+0:00:00:55 - Trying length 7, fixed @5, character count 9
+0:00:00:56 - Switching to length 3
+0:00:00:56 - Expanding tables for length 3 to character count 45
+0:00:00:56 - Trying length 3, fixed @1, character count 45
+0:00:00:57 - Switching to length 7
+0:00:00:57 - Expanding tables for length 7 to character count 9
+0:00:00:57 - Trying length 7, fixed @4, character count 9
+0:00:00:58 - Switching to length 6
+0:00:00:58 - Expanding tables for length 6 to character count 14
+0:00:00:58 - Trying length 6, fixed @5, character count 14
+0:00:01:00 - Switching to length 5
+0:00:01:00 - Expanding tables for length 5 to character count 19
+0:00:01:00 - Trying length 5, fixed @4, character count 19
+0:00:01:00 - Switching to length 8
+0:00:01:00 - Expanding tables for length 8 to character count 7
+0:00:01:00 - Trying length 8, fixed @4, character count 7
+0:00:01:02 - Trying length 8, fixed @7, character count 7
+0:00:01:03 - Switching to length 6
+0:00:01:03 - Expanding tables for length 6 to character count 14
+0:00:01:03 - Trying length 6, fixed @1, character count 14
+0:00:01:06 - Switching to length 5
+0:00:01:06 - Expanding tables for length 5 to character count 19
+0:00:01:06 - Trying length 5, fixed @5, character count 19
+0:00:01:06 - Switching to length 8
+0:00:01:06 - Expanding tables for length 8 to character count 7
+0:00:01:06 - Trying length 8, fixed @5, character count 7
+0:00:01:08 - Switching to length 7
+0:00:01:08 - Expanding tables for length 7 to character count 9
+0:00:01:08 - Trying length 7, fixed @2, character count 9
+0:00:01:10 - Switching to length 6
+0:00:01:10 - Expanding tables for length 6 to character count 14
+0:00:01:10 - Trying length 6, fixed @6, character count 14
+0:00:01:11 - Switching to length 8
+0:00:01:11 - Expanding tables for length 8 to character count 7
+0:00:01:11 - Trying length 8, fixed @2, character count 7
